@@ -15,8 +15,6 @@ It’s a global laboratory where the 7 billion human “natural experiments” r
 
 It’s an experiment to determine if a new model for clinical research using real-world data can more effectively reduce the global burden of chronic illness.
 
-It’s an experiment to see if a new economic model called Collaborationism can reward the creation of open-source “public goods” and overcome the failures of Capitalism and Communism.
-
 It’s an experiment to determine if a direct democracy can produce better results than traditional hierarchical command and control organizations.
 
 Given the unprecedented nature of such a project, each working group will be constantly experimenting with new ways to execute this mission. We recognize the importance of using real-world evidence in the mission of improving human health. Execution within the working groups should take the same data-driven approach to execute their area of the overall mission.
