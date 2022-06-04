@@ -20,9 +20,9 @@ Reward: 10 $GCURES tokens
 
 Receive tokens by adding the Harmony (ONE) chain to your Metamask wallet like so:
 
-{% embed url="https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet" %}
+https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet
 How to Receive Tokens
-{% endembed %}
+
 
 ### Add the $GCURES token to Metamask&#x20;
 
@@ -32,9 +32,9 @@ Click "Import tokens" and add `0xb8b6e51f022b6a98ac311820a908d1a37717d8c4`
 
 ### Step 2: Fill Out This Form With Your Metamask Address and GitHub ID
 
-{% embed url="https://curedao.org/join-us" %}
+https://curedao.org/join-us
 Link to signup form
-{% endembed %}
+
 
 If you completed this quest successfully, you should see 10 $GCURES tokens in your wallet in a few days.
 
