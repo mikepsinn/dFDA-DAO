@@ -1,0 +1,15 @@
+# Table of contents
+
+* [💡 The Decentralized FDA DAO](README.md)
+* [📜 Whitepaper](constitution/README.md)
+  * [☠ Introduction and Challenges](constitution/1-introduction-and-challenges.md)
+  * [🛣 Roadmap](constitution/11-roadmap.md)
+  * [📖 References](constitution/12-references.md)
+  * [⚠ DISCLAIMER](constitution/13-disclaimer.md)
+  * [💡 Solution](constitution/2-solution.md)
+  * [🏛 Organization](constitution/5-organization.md)
+  * [🪙 6-tokenomics](constitution/6-tokenomics.md)
+* [❓ How To Get Involved](how-to/README.md)
+  * [💻 Contribute to the Docs](how-to/contribute-to-docs/README.md)
+    * [✍ Writing Style Guide](how-to/contribute-to-docs/style-guide.md)
+    * [👍 Vote on Amendments to the Constitution](how-to/contribute-to-docs/vote-on-amendments-to-the-constitution.md)

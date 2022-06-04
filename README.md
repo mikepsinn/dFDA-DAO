@@ -1,10 +1,15 @@
 ---
 description: >-
-  The mandate of the Decentralized Food and Drug Administration (deFDA) is to maximize the average healthy human lifespan as measured by quality-adjusted life-years (QALYs). It does this by determining the precise and personalized effects of all foods and drugs on human health.
+  The mandate of the Decentralized Food and Drug Administration (deFDA) is to
+  maximize the average healthy human lifespan as measured by quality-adjusted
+  life-years (QALYs).
 ---
-# 💡 Litepaper
 
-### :skull\_crossbones: Problem: You and Everyone You Love Will Suffer and Die
+# 💡 The Decentralized FDA DAO
+
+## 💡The Problem
+
+#### :skull\_crossbones: You and Everyone You Love Will Suffer and Die
 
 Over [2 billion](https://www.george-health.com/global-health-challenge/) people are suffering and [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day from preventable diseases. For perspective, this is equivalent to:
 
@@ -13,46 +18,36 @@ Over [2 billion](https://www.george-health.com/global-health-challenge/) people 
 
 Unfortunately, the congressional mandate of the US Food and Drug Administration makes it impossible to efficiently solve this problem.
 
+### The US FDA’s Mandate is Not to Maximize Lives Saved
 
-## The US FDA’s Mandate is Not to Maximize Lives Saved
+Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the “ **safety and efficacy of drugs and medical devices** “. The only way to perfectly fulfill this mandate is drive the regulatory financial barrier to a new treatments to infinity. That would 100% guarantee that an unsafe or ineffective drug ever gets on the market again. The massive explosion in the cost of drug development is the logical consequence of this mandate.
 
-Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the 
-“ **safety and efficacy of drugs and medical devices** “. The only way to perfectly fulfill this mandate is drive 
-the regulatory financial barrier to a new treatments to infinity. That would 
-100% guarantee that an unsafe or ineffective drug ever gets on the market again.  The massive explosion in the cost 
-of drug development is the logical consequence of this mandate.
+A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan** .
 
-A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to  **maximize the average healthy human lifespan** .
+## Hypotheses
 
-# Hypotheses
-1. Given clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are 
-more effective at extending healthy human lifespan than the current regulatory framework.
+1. Given clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
 2. It is possible to implement such a regulatory body in an micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction on Honduras.
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
-# A Futarchy-Based Meritocratic Regulatory Framework
+## A Futarchy-Based Meritocratic Regulatory Framework
 
-Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members
-of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
+Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
 
-One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is
-proposed for a specified population.
+One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is proposed for a specified population.
 
-Medical experts can stake their token in one of three pools based on their belief for the experimental population
-relative to those outside the regulatory jurisdiction:
+Medical experts can stake their token in one of three pools based on their belief for the experimental population relative to those outside the regulatory jurisdiction:
+
 1. "Uncertain Pool" - they are uncertain of the outcome of the reform
 2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
 3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
 
 If they do nothing, it will be assumed that they did not review the proposal.
 
-If the "Helpful Pool" is the majority, the proposal will be approved and implemented.
-Post-marketing pharmacovigilence data will be collected from the participants and used to determine the relative 
-change in healthspan between affected and unaffected populations. 
+If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmacovigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
-
-### Problems that Could be Solved with a New Regulatory Framework
+#### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -88,10 +83,9 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](.gitbook/assets/studied-molecules-chart-no-background.png)
 
+#### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
-### How a DAO Regulatory Body Could Overcome Perverse Incentives
-
-#### Overcoming Cognitive Bias Against Acts of Commission
+**Overcoming Cognitive Bias Against Acts of Commission**
 
 Humans have a cognitive bias towards weighting harmful acts of commission to be worse than acts of omission even if the act of omission causes greater harm. It's seen in the trolley problem where people generally aren't willing to push a fat man in front of a train to save a family even though more lives would be saved.
 
@@ -99,7 +93,7 @@ Medical researcher Dr. Henry I. Miller, MS, MD described his experience working 
 
 In a DAO comprised of a large number of prominent experts, no individual could be blamed or have their career destroyed for making a correct decision to save the invisible lives of the many at the risk of the lives of the few.
 
-#### It's Impossible to Report on Deaths That Occurred Due to Unavailable Treatments
+**It's Impossible to Report on Deaths That Occurred Due to Unavailable Treatments**
 
 Here's a news story from the Non-Existent Times by No One Ever without a picture of all the people that die from lack of access to life-saving treatments that might have been.
 
@@ -109,13 +103,12 @@ This means that it's only logical for regulators to reject drug applications by 
 
 **Types of Error in FDA Approval Decision**
 
-|                             | Drug Is Beneficial                                 | Drug Is Harmful                                          |
-|-----------------------------|----------------------------------------------------|----------------------------------------------------------|
-| FDA Allows the Drug         | Correct Decision                                   | <br/>Victims are identifiable and might appear on Oprah. |
-| FDA Does Not Allow the Drug | Victims are not identifiable or acknowledged.<br/> | Correct Decision                                         |
+|                             | Drug Is Beneficial                                       | Drug Is Harmful                                                |
+| --------------------------- | -------------------------------------------------------- | -------------------------------------------------------------- |
+| FDA Allows the Drug         | Correct Decision                                         | <p><br>Victims are identifiable and might appear on Oprah.</p> |
+| FDA Does Not Allow the Drug | <p>Victims are not identifiable or acknowledged.<br></p> | Correct Decision                                               |
 
-
-### Current Regulation Expects Drug Developers to Have Psychic Powers
+#### Current Regulation Expects Drug Developers to Have Psychic Powers
 
 When running an efficacy trial, the FDA expects that the drug developer has the psychic ability to predict which conditions a treatment will be most effective for in advance of collecting the human trial data. If it was possible to magically determine this without any trials, it would render efficacy trials completely pointless.
 
@@ -127,7 +120,7 @@ Due to all the additional costs imposed by the efficacy trial burden, Dendreon u
 
 In addition to the direct costs to companies, the extreme costs and financial risks imposed by efficacy trials have a huge chilling effect on investment in new drugs. If you're an investment adviser, trying to avoid losing your client's retirement savings, you're much better off investing in a more stable company like a bomb manufacturer building products to intentionally kill people than a drug developer trying to save lives. So it's impossible to know all of the treatments that never even got to an efficacy trial stage due to the effects of decreased investment due to the regulatory risks.
 
-## What We Don't Know
+### What We Don't Know
 
 We’re only 2 lifetimes from the use of the modern scientific method in medicine. Thus it's only been applied for 0.0001% of human history. The more clinical research studies we read, the more we realize we don’t know. Nearly every study ends with the phrase "more research is needed". We know basically nothing at this point compared to what will eventually be known about the human body.
 
@@ -143,7 +136,7 @@ If you multiply the number of molecules with drug-like properties by the number 
 
 That means we only know 0.000000002% of what is left to be known.
 
-![](<.gitbook/assets/how-much-we-know-numbers (2).png>)
+![](<.gitbook/assets/how-much-we-know-numbers (2) (5).png>)
 
 The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
 
@@ -151,8 +144,7 @@ We’re at the very beginning of thousands or millions of years of systematic di
 
 However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of deFDA.
 
-
-#### Cost Savings in Drug Development
+**Cost Savings in Drug Development**
 
 Failed drug applications are expensive. A global database of treatments and outcomes could provide information that could avoid massive waste on failed trials.
 
@@ -160,13 +152,12 @@ Failed drug applications are expensive. A global database of treatments and outc
 * Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 * Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 
-#### Cost Savings Through Decentralization
+**Cost Savings Through Decentralization**
 
 * In phase II studies, the typical decentralized clinical trial (DCT) deployment produced a [400%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment in terms of trial cost reductions.
 * In phase III studies, decentralization produced a [1300%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment.
 
-
-#### Meta-Analyses Support of Real-World Evidence
+**Meta-Analyses Support of Real-World Evidence**
 
 Observational real-world evidence-based studies have several advantages over randomized, controlled trials, including lower cost, increased speed of research, and a broader range of patients. However, concern about inherent bias in these studies has limited their use in comparing treatments. Observational studies have been primarily used when randomized, controlled trials would be impossible or unethical.
 
@@ -174,15 +165,15 @@ However, [meta-analyses](https://www.nejm.org/doi/full/10.1056/NEJM2000062234225
 
 > when applying modern statistical methodologies to observational studies, the results are generally **not quantitatively or qualitatively different** from those obtained in randomized, controlled trials.
 
-#### Mortality Observational Studies
+**Mortality Observational Studies**
 
 ![Mortality Observational Studies](.gitbook/assets/observational-vs-randomized-effect-sizes.png)
 
-#### Observational Studies for Various Outcomes
+**Observational Studies for Various Outcomes**
 
 ![Observational Studies for Various Outcomes](.gitbook/assets/observational-vs-randomized-trial-effect-sizes.png)
 
-#### Historical Evidence in Support of Our Hypotheses
+**Historical Evidence in Support of Our Hypotheses**
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
@@ -190,13 +181,13 @@ For over 99% of recorded human history, the average human life expectancy has be
 
 ![historical life expectancy](.gitbook/assets/life-expectancy-historical.jpg)
 
-#### 1893 - The Advent of Safety and Efficacy Trials
+**1893 - The Advent of Safety and Efficacy Trials**
 
 In the late nineteenth and early twentieth century, clinical objectivity grew. The independent peer-reviewed Journal of the American Medical Association (JAMA) was founded in 1893. It would gather case reports from the 144,000 physicians members of the AMA on the safety and effectiveness of drugs. The leading experts in the area of a specific medicine would review all of the data and compile them into a study listing side effects and the conditions for which a drug was or was not effective. If a medicine were found to be safe, JAMA would give its seal of approval for the conditions where it was found to be effective.
 
 The adoption of this system of crowd-sourced, observational, objective, and peer-reviewed clinical research was followed by a sudden shift in the growth of human life expectancy. After over 10,000 years of almost no improvement, we suddenly saw a strangely linear 4-year increase in life expectancy every single year.
 
-#### 1938 - The FDA Requires Phase 1 Safety Trials
+**1938 - The FDA Requires Phase 1 Safety Trials**
 
 A drug called Elixir sulfanilamide caused over [100 deaths](https://www.fda.gov/files/about%20fda/published/The-Sulfanilamide-Disaster.pdf) in the United States in 1937.
 
@@ -212,7 +203,7 @@ This consistent four-year/year increase in life expectancy remained unchanged be
 
 This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
 
-#### 1950's - Thalidomide Causes Thousands of Birth Defects Outside US
+**1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
 
 Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
 
@@ -220,7 +211,7 @@ Fortunately, the existing FDA safety regulations prevented any birth defects in 
 
 ![Thalidomide](.gitbook/assets/thalidomide.jpg)
 
-#### 1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected
+**1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
 
 As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of $74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
 
@@ -347,5 +338,3 @@ A [three-way fixed-effects analysis](https://pubmed.ncbi.nlm.nih.gov/30912800) o
 More people survive as more treatments are developed. There's a [strong correlation](http://valueofinnovation.org/power-of-innovation) between the development of new cancer treatments and cancer survival over 30 years.
 
 ![Graph showing the correlation of developing new cancer treatments and cancer survival over 30 years.](http://valueofinnovation.org/assets/images/power-of-innovation/more-surviving-more-therapies.gif)
-
-
