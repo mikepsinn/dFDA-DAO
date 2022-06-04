@@ -128,31 +128,6 @@ Furthermore, self-trackers represent a massive pool of potential subjects dwarfi
 
 Tracking any variable in isolation is nearly useless in that it cannot provide the causal which can be derived from combining data streams. Hence, this 30 million user cohort is a small fraction of the total possible [stratifiable](https://en.wikipedia.org/wiki/Stratified\_sampling) base.
 
-## 1.3 Problems in Digital Health Innovation
-
-### 1.2.1 $157 Billion Wasted on Duplication of Effort
-
-There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps. Mobile health app development costs [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on average. Most of these have a ton of overlap in functionality representing [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) wasted on duplication of effort.
-
-If this code was freely shared, everyone could build on what everyone else had done. Theoretically, this could increase the rate of progress by 350,000 times.
-
-![closed source competition vs open source collaboration](../.gitbook/assets/closed-source-competition-vs-open-source-collaboration.sketch.png)
-
-The obstacle has been the free-rider problem. Software Developers that open source their code give their closed-source competitors an unfair advantage. This increases their likelihood of bankruptcy even higher than the 90% failure rate they already faced.
-
-#### How DAOs Overcomes the Free-Rider Problem
-
-1. Currently governments around the world are spending billions funding closed-source propriety health software. The Public Money Public Code initiative would require governments to recognize software as a [public good](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)) and require that publicly-funded software be open source.
-2. By encoding contributions to the project with NFTs, we can guarantee ongoing compensation in the form of royalties.
-
-### 1.2.2 Isolated Data Silos
-
-The best that isolated data on individual aspects of human health can do is tell us about the past. For example, dashboards telling us how many steps we got or how much sleep we got are known as “descriptive statistics”. However, by integrating all available data from individuals, similar populations, as well as existing clinical research findings and applying machine learning we may achieve “prescriptive” real-time decision support.
-
-To facilitate data sharing, the deFDA will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
-
-![APIs make siloed data useful](../.gitbook/assets/apis-siloed-data.svg)
-
 #### [Next Solution](2-solution.md) 👉
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

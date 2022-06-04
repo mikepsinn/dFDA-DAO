@@ -1,8 +1,6 @@
 ---
 description: >-
-  deFDA is an open collaborative building a community-owned, no-code digital
-  health platform to accelerate clinical research and realize the personalized,
-  precision medicine of the future.
+  The mandate of the Decentralized Food and Drug Administration (deFDA) is to maximize the average healthy human lifespan as measured by quality-adjusted life-years (QALYs). It does this by determining the precise and personalized effects of all foods and drugs on human health.
 ---
 # 💡 Litepaper
 
@@ -13,25 +11,48 @@ Over [2 billion](https://www.george-health.com/global-health-challenge/) people 
 * [**FIFTY-ONE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) September 11th attacks every day
 * [**NINE**](https://www.haaretz.com/israel-news/6-million-where-is-the-figure-from-1.10570907) Holocausts every year
 
-### 💡 Solution: A Collaborative Framework for Personalized, Precision Health
+Unfortunately, the congressional mandate of the US Food and Drug Administration makes it impossible to efficiently solve this problem.
 
-The solution is to use the oceans of real-world evidence to accelerate the discovery of new cures and reveal hidden causes of disease.
 
-The human body can be viewed as a black box with inputs (like diet, treatments, etc.) and outputs (like symptom severity). We're creating a mathematical model of human biology to determine the input factors and values that produce optimal health outcomes.
+## The US FDA’s Mandate is Not to Maximize Lives Saved
 
-![Predictive Control Machine Learning Model for Health Optimization](.gitbook/assets/machine-learning-health-optimization.png)
+Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the 
+“ **safety and efficacy of drugs and medical devices** “. The only way to perfectly fulfill this mandate is drive 
+the regulatory financial barrier to a new treatments to infinity. That would 
+100% guarantee that an unsafe or ineffective drug ever gets on the market again.  The massive explosion in the cost 
+of drug development is the logical consequence of this mandate.
 
-#### The Potential of the Oceans of Real-World Evidence
+A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to  **maximize the average healthy human lifespan** .
 
-* **Discovering Hidden Causes of Illness** - Data mining and analysis to identify hidden factors in our daily life that are making us sicker
-* **Preventative medicine** - Predictive analytics and data analysis of genetic, lifestyle, and social circumstances to prevent disease
-* **Precision medicine** - Leveraging aggregate data to determine the precise treatments and dosages for your unique biology
-* **Accelerated Treatment Discovery** - Data-driven medical and pharmacological research to di[](https://)scover new treatments and medicines
-* **Reduction of adverse medication events** - Harnessing big data to spot medication errors and flag potential adverse reactions
-* **Cost reduction** - Driving better patient outcomes for long-term savings through prevention and avoidance of expensive and ineffective treatments
-* **Population health** - Identify health strategies based on demographic, geographic, and socioeconomic trends
+# Hypotheses
+1. Given clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are 
+more effective at extending healthy human lifespan than the current regulatory framework.
+2. It is possible to implement such a regulatory body in an micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction on Honduras.
+3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
+4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
-### Why Clinical Research Has Failed
+# A Futarchy-Based Meritocratic Regulatory Framework
+
+Medical experts will receive soul-bound non-transferable deFDA Credential NFTs (FDA-CRED) will be issued to all members
+of the American Medical Association (AMA) and other international bodies which verify medical credentialing.
+
+One deFDA fungible Reputation Token (FDA-REP) will be airdropped to holder of FDA-NFTs for each intervention that is
+proposed for a specified population.
+
+Medical experts can stake their token in one of three pools based on their belief for the experimental population
+relative to those outside the regulatory jurisdiction:
+1. "Uncertain Pool" - they are uncertain of the outcome of the reform
+2. "Harmful Pool" - reform will result in a relative net average DECREASE in healthspan
+3. "Helpful Pool" - reform will result in a relative net average INCREASE in healthspan
+
+If they do nothing, it will be assumed that they did not review the proposal.
+
+If the "Helpful Pool" is the majority, the proposal will be approved and implemented.
+Post-marketing pharmacovigilence data will be collected from the participants and used to determine the relative 
+change in healthspan between affected and unaffected populations. 
+
+
+### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -67,319 +88,264 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-### Why Digital Health Innovation Has Failed
 
-#### Duplication of Effort
+### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
-Despite this massive growth in health data and innovation, we've seen increased costs and disease burden and decreased life expectancy.
+#### Overcoming Cognitive Bias Against Acts of Commission
 
-![](.gitbook/assets/digital-health-has-failed-large.png)
+Humans have a cognitive bias towards weighting harmful acts of commission to be worse than acts of omission even if the act of omission causes greater harm. It's seen in the trolley problem where people generally aren't willing to push a fat man in front of a train to save a family even though more lives would be saved.
 
-The reason is awful **incentives**. There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps, and each costs an average of [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) to develop. Most have significant overlap in functionality, representing a cost of [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on duplication of effort.
+Medical researcher Dr. Henry I. Miller, MS, MD described his experience working at the FDA, “In the early 1980s,” Miller wrote, “when I headed the team at the FDA that was reviewing the NDA \[application] for recombinant human insulin…my supervisor refused to sign off on the approval,” despite ample evidence of the drug’s ability to safely and effectively treat patients. His supervisor rationally concluded that, if there was a death or complication due to the medication, heads would roll at the FDA—including his own. So the personal risk of approving a drug is magnitudes larger than the risk of rejecting it.
 
-![](.gitbook/assets/collaboration-is-punished (1).PNG)
+In a DAO comprised of a large number of prominent experts, no individual could be blamed or have their career destroyed for making a correct decision to save the invisible lives of the many at the risk of the lives of the few.
 
-Isolated streams of health data can only tell us about the past. For example, dashboards filled with descriptive statistics such as our daily steps or sleep.
+#### It's Impossible to Report on Deaths That Occurred Due to Unavailable Treatments
 
-![](.gitbook/assets/thousands-of-dashboards.PNG)
+Here's a news story from the Non-Existent Times by No One Ever without a picture of all the people that die from lack of access to life-saving treatments that might have been.
 
-If this data and innovation efforts were combined, this could increase the rate of progress by 350,000 times.
+![](.gitbook/assets/non-existent-times.png)
 
-![](.gitbook/assets/vertical-innovation.PNG)
+This means that it's only logical for regulators to reject drug applications by default. The personal risks of approving a drug with any newsworthy side effect far outweigh the personal risk preventing access to life-saving treatment.
 
-The obstacle has been the free-rider problem. Software developers that open source their code give their closed-source competitors an unfair advantage, increasing their likelihood of bankruptcy.
+**Types of Error in FDA Approval Decision**
 
-**How to Overcome the Free-Rider Problem**
+|                             | Drug Is Beneficial                                 | Drug Is Harmful                                          |
+|-----------------------------|----------------------------------------------------|----------------------------------------------------------|
+| FDA Allows the Drug         | Correct Decision                                   | <br/>Victims are identifiable and might appear on Oprah. |
+| FDA Does Not Allow the Drug | Victims are not identifiable or acknowledged.<br/> | Correct Decision                                         |
 
-1. **Government Grants** - Currently, governments spend billions funding closed-source propriety health software. The Public Money, Public Code initiative requires governments to recognize software as a [public good](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)) that is open source. This would lead to a massive influx in grant funding for open-source digital health projects.
-2. **Open-Source Royalty Compensation** - By encoding contributions to the project with NFTs, we can provide ongoing royalty payments to open-source contributors.
-3. **Licensing** - The project core framework will be open-source for any non-commercial purpose. However, we will utilize a [Fair-code](https://faircode.io) or [Fair Source](https://fair.io/?a) licensing model to generate revenue when used by for-profit entities. Licensing fees will be negotiated such that a fraction of the profits generated by the licensee's project use.
-4. **Managed Software-as-a-Service** - Digital health companies can save months of development time and tens of thousands of dollars using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
-5. **For-Profit Plugins** - WordPress, the most widely used web framework globally, is open-source. Businesses earn revenue by creating for-profit plugins. They contribute to improvements of the open-source core WordPress platform because these improvements benefit their business directly.
 
-## 🏭 Platform
+### Current Regulation Expects Drug Developers to Have Psychic Powers
 
-A global open-source platform and plugin framework will enable the transformation of data into clinical discoveries.
+When running an efficacy trial, the FDA expects that the drug developer has the psychic ability to predict which conditions a treatment will be most effective for in advance of collecting the human trial data. If it was possible to magically determine this without any trials, it would render efficacy trials completely pointless.
 
-#### Functional Scope
+In 2007, manufacturer Dendreon submitted powerful evidence attesting to the safety and efficacy of its immunotherapy drug Provenge, which targets prostate cancer. They were able to show that the drug resulted in a significant decline in deaths among its study population, which even persuaded the FDA advisory committee to weigh in on the application. But ultimately, the FDA rejected its application.
 
-The functional scope of the platform includes:
+The FDA was unmoved by the evidence, simply because Dendreon didn’t properly specify beforehand what its study was trying to measure. Efficacy regulations state that finding a decline in deaths is not enough. The mountains of paperwork must be filled out just so and in the correct order. It took three more years and yet another large trial before the FDA finally approved the life-saving medication.
 
-* aggregation
-* managing
-* processing
-* storage
+Due to all the additional costs imposed by the efficacy trial burden, Dendreon ultimately [filed for chapter 11 bankruptcy](https://www.targetedonc.com/view/dendreon-files-for-bankruptcy-provenge-still-available).
 
-of health data from different sources.
+In addition to the direct costs to companies, the extreme costs and financial risks imposed by efficacy trials have a huge chilling effect on investment in new drugs. If you're an investment adviser, trying to avoid losing your client's retirement savings, you're much better off investing in a more stable company like a bomb manufacturer building products to intentionally kill people than a drug developer trying to save lives. So it's impossible to know all of the treatments that never even got to an efficacy trial stage due to the effects of decreased investment due to the regulatory risks.
 
-#### Primary goal
+## What We Don't Know
 
-Create a basic foundational technology layer suitable for any digital health application that provides better interoperability, portability, availability, analysis, and data security.
+We’re only 2 lifetimes from the use of the modern scientific method in medicine. Thus it's only been applied for 0.0001% of human history. The more clinical research studies we read, the more we realize we don’t know. Nearly every study ends with the phrase "more research is needed". We know basically nothing at this point compared to what will eventually be known about the human body.
 
-#### Use Cases
+There are over [7,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans.
 
-* EHR Systems for healthcare providers
-* User-centered dashboards for personal health management
-* Data sharing with doctors, health coaches, or family members
-* Decentralized clinical trial platforms
-* Patient recruitment services for clinical trials
-* Citizen science platforms
-* Health data marketplaces
-* Open health databases for research
-* Algorithm and scores development (e.g., in-silico trials)
-* Niche health applications with specific requirements or custom integrations
+![](.gitbook/assets/rare-diseases.jpg)
 
-![deFDA Platform](.gitbook/assets/large-platform-diagram-no-colors.png)
+There are as many untested compounds with drug-like properties as there are [atoms in the solar system](https://www.nature.com/articles/549445a) (166 billion).
 
-The platform consists of two primary components:
+![](<.gitbook/assets/number-of-molecules-with-drug-like-properties (1).png>)
 
-* **Core Open-Source Platform** - The core platform is open-source and includes only universally necessary features. This primarily consists of user authentication, data owner access controls, data storage, data validation, and an API for storage and retrieval.
-* **Plugin Framework** - Plugins will provide additional functionality like data import from specific sources, data mapping to various formats, data analysis, data visualization, notifications. These may be free or monetized by their creator.
+If you multiply the number of molecules with drug-like properties by the number of diseases, that's 1,162,000,000, 000,000 combinations. So far we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent).
 
-### Core Components
+That means we only know 0.000000002% of what is left to be known.
 
-**Data Ingestion and Access API**
+![](<.gitbook/assets/how-much-we-know-numbers (2).png>)
 
-The Unified Health application programming interface (API) includes an OpenAPI specification for receiving and sharing data with the core database. Software development kits (SDKs) will enable developers to implement easy automatic data access and sharing options in their applications.
+The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
 
-**Data Mapping and Validation**
+We’re at the very beginning of thousands or millions of years of systematic discovery. So it’s unlikely that this decline in lifespan growth is the result of diminishing returns due to our running out of things to discover.
 
-Data from files or API requests can be mapped from many different proprietary formats into a standard schema.
+However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of deFDA.
 
-**Data Ownership**
 
-Data should be owned by the individual who generated it. It should remain under their control throughout the entire data life-cycle from generation to deletion.
+#### Cost Savings in Drug Development
 
-**Data Compensation**
+Failed drug applications are expensive. A global database of treatments and outcomes could provide information that could avoid massive waste on failed trials.
 
-Value stream management allows the exchange of data for tokens.
+* A 10% improvement in predicting failure before clinical trials could save [$100 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals) in development costs.
+* Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
+* Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 
-### Plugin Framework
+#### Cost Savings Through Decentralization
 
-3rd party plugins can interact with the core and provide additional functionality. They may be free or monetized by their creator. These include:
+* In phase II studies, the typical decentralized clinical trial (DCT) deployment produced a [400%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment in terms of trial cost reductions.
+* In phase III studies, decentralization produced a [1300%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment.
 
-* Data Import Plugins
-* Data Visualization Plugins
-* Machine Learning Plugins
-* Electronic Health Record System Plugins
-* Clinical Trial Management Plugins
 
-![Branded Plugins](.gitbook/assets/plugin-marketplace (1).png)
+#### Meta-Analyses Support of Real-World Evidence
 
-**Data Analysis Plugins**
+Observational real-world evidence-based studies have several advantages over randomized, controlled trials, including lower cost, increased speed of research, and a broader range of patients. However, concern about inherent bias in these studies has limited their use in comparing treatments. Observational studies have been primarily used when randomized, controlled trials would be impossible or unethical.
 
-Data Analysis Plugins will apply statistical and machine learning methods to the ocean of high-frequency longitudinal individual and population-level data. The resulting value will include:
+However, [meta-analyses](https://www.nejm.org/doi/full/10.1056/NEJM200006223422506) found that:
 
-* Personalized Effectiveness Quantification - Determination of the precise effectiveness of treatments for specific individuals
-* Root Cause Analyses - Revelation of hidden factors and root causes of diseases
-* Precision Medicine - Determination of the personalized optimal values or dosages based on biomarkers, phenotype, and demographics
-* Combinatorial Medicine - Discover relationships between variables or combinations of interventions
-* Optimal Daily Values - Determination of the personalized optimal dosages of nutrients or medications
-* Cost-Benefit Analysis of interventions by weighing clinical benefit against costs in terms of side effects and financial impact
+> when applying modern statistical methodologies to observational studies, the results are generally **not quantitatively or qualitatively different** from those obtained in randomized, controlled trials.
 
-**Example Data Presentation Plugins**
+#### Mortality Observational Studies
 
-* [Outcome Labels](broken-reference)
-* [Predictor Search Engines](broken-reference)
-* [Root Cause Analysis Reports](https://github.com/cure-dao/docs/blob/main/plugins/root-cause-analysis-reports-plugin/1398-root-cause-analysis.html)
-* [Observational Studies](broken-reference)
-* [Real-Time Decision Support Notifications](broken-reference)
+![Mortality Observational Studies](.gitbook/assets/observational-vs-randomized-effect-sizes.png)
 
-## ❤ Incentivization
+#### Observational Studies for Various Outcomes
 
-We use the DAO structure and NFT IP royalties to reward data sharing and open-source collaboration.
+![Observational Studies for Various Outcomes](.gitbook/assets/observational-vs-randomized-trial-effect-sizes.png)
 
-### Incentive Alignment
+#### Historical Evidence in Support of Our Hypotheses
 
-This illustrates the flow of value between different stakeholders. Unlike traditional zero-sum games, deFDA provides everyone with more value from participation than they have to put into it.
+There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
-![Value Flow Chain](.gitbook/assets/value-chain-diagram (2).png)
+For over 99% of recorded human history, the average human life expectancy has been around 30 years.
 
-#### 1. Patients
+![historical life expectancy](.gitbook/assets/life-expectancy-historical.jpg)
 
-Incentives for Patients to share their de-identified data will include:
+#### 1893 - The Advent of Safety and Efficacy Trials
 
-1. Actionable ways to prevent and mitigate chronic illnesses.
-2. The ability to license and earn a share of income for the use of their data for research and development by pharmaceutical companies and other businesses. NFTs will be linked to the user's cryptographic wallet address. Using a smart contract, the user will receive an ongoing royalty share of the profits for any product developed using their data for research and development.
+In the late nineteenth and early twentieth century, clinical objectivity grew. The independent peer-reviewed Journal of the American Medical Association (JAMA) was founded in 1893. It would gather case reports from the 144,000 physicians members of the AMA on the safety and effectiveness of drugs. The leading experts in the area of a specific medicine would review all of the data and compile them into a study listing side effects and the conditions for which a drug was or was not effective. If a medicine were found to be safe, JAMA would give its seal of approval for the conditions where it was found to be effective.
 
-#### 2. Businesses Housing Data Silos
+The adoption of this system of crowd-sourced, observational, objective, and peer-reviewed clinical research was followed by a sudden shift in the growth of human life expectancy. After over 10,000 years of almost no improvement, we suddenly saw a strangely linear 4-year increase in life expectancy every single year.
 
-Businesses housing data silos include health insurers, pharmacies, grocery delivery services, digital health apps, hospitals, etc. These will be incentivized to allow individuals to easily share their data via a well-documented OAuth2 API by:
+#### 1938 - The FDA Requires Phase 1 Safety Trials
 
-1. A share of income for using their data for research and development.
-2. An on-site instance of the OAuth2 server to retrieve required data from their on-premise databases.
-3. Reduction in their employee healthcare costs (one of their most significant expenses)
+A drug called Elixir sulfanilamide caused over [100 deaths](https://www.fda.gov/files/about%20fda/published/The-Sulfanilamide-Disaster.pdf) in the United States in 1937.
 
-#### 4. Incentives for Digital Health Businesses
+Congress [reacted](https://en.wikipedia.org/wiki/Elixir\_sulfanilamide) to the tragedy by requiring all new drugs to include:
 
-1. Reduced costs of software development.
-2. Massive free marketing exposure through company branded plugins in the Plugin Marketplace.
-3. Revenue derived from their plugins in the Plugin Marketplace.
+> "adequate tests by all methods reasonably applicable to show whether or not such drug is safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof."
 
-#### 5.Incentives for Disease Advocacy Non-Profit Organizations
+These requirements evolved to what is now called the [Phase 1 Safety Trial](https://en.wikipedia.org/wiki/Phase\_1\_safety\_trial).
 
-Disease advocacy nonprofits will benefit from promoting studies to their members by:
+This consistent four-year/year increase in life expectancy remained unchanged before and after the new safety regulations.
 
-1. Furtherance of their mission to reduce the incidence of chronic illnesses.
-2. Member engagement more productive than the traditional charity walk.
+![Fda safety trials life expectancy](.gitbook/assets/fda-safety-trials-life-expectancy.png)
 
-#### 6. Incentives for Government Health Agencies
+This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
 
-1. A reduction in healthcare costs due to discovering new ways to prevent and mitigate chronic illnesses.
-2. Furtherance of their stated reason for existence to protect and promote the general welfare.
-3. Their duty to protect the rights of individuals' data. To fulfill this, they must require businesses in possession of it to give them the ability to access and share their data via a well-documented OAuth2 API
-4. Cost-savings from international cost-sharing by using global open-source software.
-5. Epidemiological discoveries on the effectiveness of different public health regulations between nations.
+#### 1950's - Thalidomide Causes Thousands of Birth Defects Outside US
 
-#### 7. Incentives for Contributors to the Development of the Platform
+Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
 
-1. Gitcoin Bounties for specific tasks
-2. Encoding git commits with NFTs entitling the developer to ongoing royalties in proportion to their contributions.
+Fortunately, the existing FDA safety regulations prevented any birth defects in the US. Despite the effectiveness of the existing US regulatory framework in protecting Americans, newspaper stories such as the one below created a strong public outcry for increased regulation.
 
-## 🏛 Organization
+![Thalidomide](.gitbook/assets/thalidomide.jpg)
 
-deFDA is a laboratory consisting of many experiments.
+#### 1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected
 
-It's a global laboratory where the 7 billion human "natural experiments" are conducted, revealing the effects of various factors on human health and happiness.
+As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of $74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
 
-It's an experiment to determine if a new model for clinical research using real-world data can more effectively reduce the global burden of chronic illness.
+**Reduction in Efficacy Data**
 
-It's an experiment to see if a new economic model called Collaborationism can reward the creation of open-source "public goods" and overcome the failures of Capitalism and Communism.
+The 1962 regulations made these large real-world efficacy trials illegal. Ironically, even though the new regulations were primarily focused on ensuring that drugs were effective through controlled FDA efficacy trials, they massively reduced the quantity and quality of the efficacy data that was collected for several reasons:
 
-It's an experiment to determine if a direct democracy can produce better results than traditional hierarchical command and control organizations.
+* New Trials Were Much Smaller
+* Participants Were Less Representative of Actual Patients
+* They Were Run by Drug Companies with Conflicts of Interest Instead of the 3rd Party AMA
 
-Given the unprecedented nature of such a project, each working group will constantly be experimenting with new ways to execute this mission. We recognize the importance of using real-world evidence in the mission of improving human health. Execution within the working groups should take the same data-driven approach to execute their area of the overall mission.
+**Reduction in New Treatments**
 
-Accordingly, the organization is composed of three primary components.
+The new regulatory clampdown on approvals immediately reduced the production of new treatments by 70%.
 
-1. Citizen Scientists - deFDA is an open and permissionless organization. Anyone has the right to earn their Citizenship through the contribution of labor or resources. In exchange, the Citizen Scientist will receive deFDA tokens granting full governance rights over the actions of DAO Lab Staff.
-2. DAO Laboratories - Internal working groups that carry out the Citizen Scientists' will.
-3. External Service Providers - Individuals or entities outside the DAO deemed necessary to carry out the Citizen Scientists' will.
+![](.gitbook/assets/new-treatments-per-year-2.png)
 
-## Tokenomics
+**Explosion in Costs**
 
-The deFDA governance token is used to incentivize data sharing and open-source collaboration. Tokens are obtained by contributing work, data, IP, or funds to deFDA.
+Since the abandonment of the former efficacy trial model, costs have exploded. Since 1962, the cost of bringing a new treatment to market has gone from [$74 million](https://publications.parliament.uk/pa/cm200405/cmselect/cmhealth/42/4207.htm) to over [$1 billion](https://publications.parliament.uk/pa/cm200405/cmselect/cmhealth/42/4207.htm) US dollars (2020 inflation-adjusted).
 
-Tokens grant deFDA [Citizen Scientists](constitution/5-organization.md) the right to decide how the DAO's resources are distributed.
+![](.gitbook/assets/cost-to-develop-a-new-drug.png)
 
-### Token Genesis
+**High Cost of Development Favors Monopoly and Punishes Innovation**
 
-The goal of deFDA is for every human on earth to share the natural experiments that define their existence. The world's population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](constitution/5-organization.md), 9.4 billion deFDA tokens will be created.
+There's another problem with the increasing costs of treatment development. In the past, a genius scientist could come up with a treatment, raise a few million dollars, and do safety testing. Now that it costs a billion dollars to get a drug to market, the scientist has to persuade one of a few giant drug companies that can afford it to buy his patent.
 
-The genesis distribution event will make 10% of deFDA's total token supply available to interested participants using a fair and open smart contract auction.
+Then the drug company has two options:
 
-![](.gitbook/assets/token-distribution.png)
+**Option 1: Risk $1 billion on clinical trials**
 
-Since deFDA's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
+**Possibility A:** Drug turns out to be one of the 90% the FDA rejects. GIVE BANKER A BILLION DOLLARS. DO NOT PASS GO.
 
-## 💰 Revenue
+**Possibility B:** Drug turns out to be one of the 10%, the FDA approves. Now it's time to try to recover that billion dollars. However, very few drug companies have enough money to survive this game. So, this company almost certainly already has an existing inferior drug on the market to treat the same condition. Hence, any profit they make from this drug will likely be subtracted from revenue from other drugs they've already spent a billion dollars on.
 
-deFDA generates revenue streams to compensate IP and data contributors and sustain and grow the project. The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
+**Option 2: Put the patent on the shelf**
 
-![](.gitbook/assets/sector-growth-chart.png)
+Do not take a 90% chance of wasting a billion dollars on failed trials. Do not risk making your already approved cash-cow drugs obsolete.
 
-These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of income include:
+What's the benefit of bringing better treatment to market if you're just going to lose a billion dollars? Either way, the profit incentive is entirely in favor of just buying better treatments and shelving them.
 
-1. Sale of high-frequency longitudinal de-identified data to
-   1. pharma for drug discovery
-   2. research institutions for funded studies
-2. Grants from governments modernizing their programs to take advantage of real-world data
-3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
+**Cures Are Far Less Profitable Than Lifetime Treatments**
 
-#### Hosted Software as a Service (SaaS)
+If the new treatment is a permanent cure for the disease, replacing a lifetime of refills with a one-time purchase would be economically disastrous for the drug developer. With a lifetime prescription, a company can recover its costs over time. Depending on the number of people with the disease, one-time cures would require a massive upfront payment to recover development costs.
 
-Digital health companies can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
+How is there any financial incentive for medical progress at all?
 
-#### Data Licensing
+Fortunately, there isn't a complete monopoly on treatment development. However, the more expensive it is to get a drug to market, the fewer companies can afford the upfront R\&D investment. So the drug industry inevitably becomes more monopolistic. Thus there are more situations where the cost of trials for a superior treatment exceeds the profits from existing treatments.
 
-Electronic health records (EHRs) can be used to support randomized controlled trials (RCTs). A [meta-analysis](https://pubmed.ncbi.nlm.nih.gov/30718353/) found that the per-patient cost in EHR-supported trials varied from [$44 to $2000](https://pubmed.ncbi.nlm.nih.gov/30718353/). Using NFTs, we can link donated data to the patient to receive ongoing royalty payments for the use of their data once new interventions reach the market.
+**People With Rare Disease are Severely Punished**
 
-#### Software Licensing
+In the case of rare diseases, increasing the cost of treatment development to over a billion makes it impossible to recover your investment from a small number of patients. So rare disease patients suffer the most severe harm from the added regulatory burden on development.
 
-Although the project core framework will be open-source for any non-commercial purpose. However, we will utilize a [Fair-code](https://faircode.io) or [Fair Source](https://fair.io/?a) licensing model to generate revenue when used by for-profit entities. Licensing fees will be negotiated such that a fraction of the profits generated by the licensee's project use.
+How high should the cost of drug development be on our list of human problems? Well, when something costs more, you get less of it. For people dying of cancer, the fact that we couldn't afford enough research to cure them is definitely at the top of their list of human problems.
 
-## 📔 Legal Framework
+**Delayed Life-Saving Treatments**
 
-A decentralized autonomous organization, or a "DAO," is an "organization" encoded as a transparent computer program, controlled by the organization members and not by a central corporate entity. deFDA will utilize an unincorporated nonprofit association (UNA) as a 'wrapper' to facilitate the entering of contracts.
+One unanticipated consequence of the amendments was that the new burden of proof made the process of drug development both more expensive and much longer, leading to increasing drug prices and a “drug lag”. After that point, whenever they released some new cancer or heart medication that would save 50 thousand lives a year, it meant that over the previous ten years of trials, 500 people died because they didn't have access to the drug earlier.
 
-## 😷 Privacy
+**Deaths Due to US Regulatory "Drug Lag"**
 
-deFDA will use deidentification and obfuscated but equivalent data synthetically derived from actual patient data to protect privacy.
+A comparative analysis between countries suggests that delays in new interventions cost anywhere from [21,000 to 120, 000](https://www.fdareview.org/features/references/#gieringer85) US lives per decade.
 
-![de-identification](.gitbook/assets/deidentification.png)
+Deaths owing to drug lag have been numbered in the [hundreds of thousands](https://www.fdareview.org/features/references/#wardell78a). It's estimated that practolol, a drug in the beta-blocking family, could save ten thousand lives a year if allowed in the United States. Although the FDA allowed a first beta-blocker, propranolol, in 1968, three years after that drug had been available in Europe, it waited until 1978 to allow propranolol to treat hypertension and angina pectoris, its most essential indications. Despite clinical evidence as early as 1974, only in 1981 did the FDA allow a second beta-blocker, timolol, to prevent a second heart attack. The agency’s withholding of beta-blockers was alone responsible for probably [tens of thousands of deaths](https://www.fdareview.org/features/references/#gieringer85).
 
-### De-identification Methods
+[Data](http://csdd.tufts.edu/databases) from the Tufts Center for the Study of Drug Development suggests that thousands of patients have died because of US regulatory delays relative to other countries, for new drugs and devices, including:
 
-Data de-identification is the process of eliminating Personally Identifiable Data (PII) from any document or other media, including an individual's Protected Health Information (PHI). The HIPAA Safe Harbor Method is a precise standard for de-identifying personal health information when disclosed for secondary purposes.
+* interleukin-2
+* Taxotere
+* vasoseal
+* ancrod
+* Glucophage
+* navelbine
+* Lamictal
+* ethyol
+* photofrin
+* rilutek
+* citicoline
+* panorex
+* Femara
+* ProStar
+* omnicath
 
-### Data De-identification Tools
+Before US FDA approval, most of these drugs and devices had already been available in other countries for a year or longer.
 
-#### 1. ARX Data Anonymization Tool
+Following the 1962 increase in US regulations, one can see a divergence from Switzerland's growth in life expectancy, which did not introduce the same delays to availability.
 
-[ARX](https://arx.deidentifier.org) is an open-source tool that anonymizes sensitive personal information. It supports a range of privacy and risk models, techniques for data transformation, and techniques to analyze the utility of output data.
+![swiss life expectancy](.gitbook/assets/us-swiss-life-expectancy-5.png)
 
-#### 2. deid software package
+Perhaps it's a coincidence, but you can see an increase in drug approvals in the '80s. At the same time, the gap between Switzerland and the US gets smaller. Then US approvals go back down in the '90s, and the gap expands again.
 
-The [deid software package](https://archive.physionet.org/physiotools/deid/) includes code and dictionaries that automatically locate and remove PHI in free text from medical records.
+![swiss life expectancy](.gitbook/assets/us-swiss-life-expectancy-drug-approvals.png)
 
-#### 3. Synthetic Patient Generation
+**Increase in Patent Monopoly**
 
-[Synthea](https://synthetichealth.github.io/synthea/) is an open-source, synthetic patient generator that models the medical history of artificial patients. Our mission is to provide high-quality, synthetic, realistic but not real patient data and associated health records covering every aspect of healthcare. The resulting data is free from cost, privacy, and security restrictions, enabling research with Health IT data otherwise legally or practically unavailable.
+Industry agitation surrounding the “drug lag” finally led to the modification of the drug patenting system in the Drug Price Competition and Patent Term Restoration Act of 1984. This further extended the life of drug patents. Thus Kefauver's amendments ultimately made drugs more expensive by granting longer monopolies.
 
-## 🚗 Roadmap
+**Decreased Ability to Determine Comparative Efficacy**
 
-### Q1/2022 Build the DAO
+The placebo-controlled, randomized controlled trial helped researchers gauge the efficacy of an individual drug. However, it makes the determination of comparative effectiveness much more difficult.
 
-* Create Whitepaper, Website, Media presence
-* Define collaborators and partners (DAO infrastructure, health data tech)
-* Setup DAO architecture and infrastructure
-* Build community, social media content
-* Fundraising phase (Genesis)
+**Slowed Growth in Life Expectancy**
 
-### Q2/2022 Minimal Viable Product (MVP)
+From 1890 to 1960, there was a linear 4-year increase in human lifespan every year. This amazingly linear growth rate had followed millennia with a flat human lifespan of around 28 years. Following this new 70% reduction in the pace of medical progress, the growth in human lifespan was immediately cut in half to an increase of 2 years per year.
 
-* Collaborators vote for core features
-* Build MVP alongside use in showcase trial
-* Internal testing with collaborators
-* Release V1 of the Software Framework
-* Open testing with partners
+![](.gitbook/assets/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png)
 
-### Q3/2022 Integration and Testing
+**Diminishing Returns?**
 
-* Integrate with other tech architecture (storage providers, data marketplaces, analysis software, etc. )
-* Integrate with operating health data standards and Electronic Health Record
-* Build showcase plugins
-* Release V2 of the Software Framework
+One might say “It seems more likely — or as likely — to me that drug development provides diminishing returns to life expectancy.” However, diminishing returns produce a slope of exponential decay. It may be partially responsible, but it’s not going to produce a sudden change in the linear slope of a curve a linear as life expectancy was before and after the 1962 regulations.
 
-### Q4/2022 Applications pilots
+![diminishing returns](.gitbook/assets/diminishing-returns.png)
 
-* Open shared health database for research access
-* Trials platform with participation royalty payback
-* User-centered health management
-* Algorithm and scores development
-* Data marketplaces
+**Correlation is Not Causation**
 
-### Q1/2023 SaaS Business, Plugins, Education
+You might say "I don't know how much the efficacy regulations contribute to or hampers public health. I do know that correlation does not necessarily imply causation." However, a correlation plus a logical mechanism of action is the least bad method we have for inferring the most likely significant causal factor for an outcome (i.e. life expectancy). Assuming most likely causality based on temporal correlation is the entire basis of a clinical research study and the scientific method generally.
 
-* Create plugin marketplace
-* Create No-code platform for instances/ connectors
-* Build hosted SaaS service for profit
-* Create documentation and education material
-* Promote broader usage
+**Impact of Innovative Medicines on Life Expectancy**
 
-### Read The Full Whitepaper
+A [three-way fixed-effects analysis](https://pubmed.ncbi.nlm.nih.gov/30912800) of 66 diseases in 27 countries, suggests that if no new drugs had been launched after 1981, the number of years of life lost would have been 2.16 times higher it actually was. It estimates that pharmaceutical expenditure per life-year saved was [$2837](https://pubmed.ncbi.nlm.nih.gov/30912800).
 
-1. [Introduction and Challenges](constitution/1-introduction-and-challenges.md)
-2. [Solution](constitution/2-solution.md)
-3. [Platform](constitution/3-platform.md)
-4. [Incentivization](constitution/4-incentivization.md)
-5. [Organization](constitution/5-organization.md)
-6. [Tokenomics](constitution/6-tokenomics.md)
-7. [Revenue](constitution/7-revenue.md)
-8. [Legal Framework](constitution/8-legal-framework.md)
-9. [Privacy](constitution/9-privacy.md)
-10. [Ecosystem](constitution/10-ecosystem.md)
-11. [Roadmap](constitution/11-roadmap.md)
-12. [References](constitution/12-references.md)
+![Graph showing the shift in relative mortality among major diseases over 60 years.](http://valueofinnovation.org/assets/images/power-of-innovation/disease-causing-death-shift.gif)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+More people survive as more treatments are developed. There's a [strong correlation](http://valueofinnovation.org/power-of-innovation) between the development of new cancer treatments and cancer survival over 30 years.
+
+![Graph showing the correlation of developing new cancer treatments and cancer survival over 30 years.](http://valueofinnovation.org/assets/images/power-of-innovation/more-surviving-more-therapies.gif)
+
+
