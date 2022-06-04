@@ -6,9 +6,9 @@ description: >-
 
 # 💻 Contribute to the Docs
 
-{% hint style="danger" %}
+
 Make sure to adhere to the [Writing Style Guide](style-guide.md) and always use [Grammarly ](https://grammarly.com)(or [Language Tool ](https://languagetool.org)if editing on Githbook) to avoid any grammatical errors.
-{% endhint %}
+
 
 ## Option 1: Edit or Comment On Gitbook
 
@@ -25,9 +25,9 @@ For quick, small changes, Gitbook is the easiest option.
 
 1. Follow the instructions [here ](https://docs.gitbook.com/editing-content/editing-pages/change-requests#creating-a-change-request)to edit and submit a change request.
 
-{% hint style="danger" %}
+
 Make sure to enter a descriptive subject at the bottom when submitting changes.
-{% endhint %}
+
 
 ## Option 2: Edit Locally
 

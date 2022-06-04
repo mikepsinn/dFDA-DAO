@@ -4,9 +4,9 @@ description: Learn how you can join and participate deFDA
 
 # ❓ How To Get Involved
 
-{% hint style="info" %}
+
 Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project and we'll get in touch with you.
-{% endhint %}
+
 
 deFDA is open to anyone interested in preventing suffering and death from chronic diseases and degenerative diseases. Our success in this mission will be an exponential function of the participation of people like you. 🚀
 

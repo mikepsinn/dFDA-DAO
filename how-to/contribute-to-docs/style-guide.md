@@ -4,9 +4,8 @@ description: How to contribute to the deFDA documentation.
 
 # ✍ Writing Style Guide
 
-{% hint style="danger" %}
-Be sure to use [Grammarly ](https://grammarly.com)(or [Language Tool ](https://languagetool.org)if editing on Githbook) to avoid any grammatical errors.
-{% endhint %}
+
+Be sure to use [Grammarly ](https://grammarly.com)(or [Language Tool ](https://languagetool.org)) to check your writing style.
 
 ## General principles
 
