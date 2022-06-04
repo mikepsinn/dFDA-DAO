@@ -14,7 +14,7 @@ Fully realizing the potential of the personalized preventative medicine of the f
 
 ![incentive alignment](../.gitbook/assets/incentive-alignment.png)
 
-This illustrates the flow of value between different stakeholders. As opposed to traditional zero-sum games, CureDAO provides a way for each self-interested party to derive more value from participation than they have to put into it.
+This illustrates the flow of value between different stakeholders. As opposed to traditional zero-sum games, deFDA provides a way for each self-interested party to derive more value from participation than they have to put into it.
 
 ![How Everyone is Better Off](<../.gitbook/assets/value-chain-diagram (2).png>)
 

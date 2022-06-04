@@ -1,5 +1,5 @@
 ---
-description: Learn how you can join and participate CureDAO
+description: Learn how you can join and participate deFDA
 ---
 
 # ❓ How To Get Involved
@@ -8,7 +8,7 @@ description: Learn how you can join and participate CureDAO
 Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project and we'll get in touch with you.
 {% endhint %}
 
-CureDAO is open to anyone interested in preventing suffering and death from chronic diseases and degenerative diseases. Our success in this mission will be an exponential function of the participation of people like you. 🚀
+deFDA is open to anyone interested in preventing suffering and death from chronic diseases and degenerative diseases. Our success in this mission will be an exponential function of the participation of people like you. 🚀
 
 Creating a new ecosystem for health data not only requires developers, but anyone with skills in:
 

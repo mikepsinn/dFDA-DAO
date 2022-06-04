@@ -1,5 +1,5 @@
 ---
-description: How to democratically contribute to the CureDAO constitution.
+description: How to democratically contribute to the deFDA constitution.
 ---
 
 # 👍 Vote on Amendments to the Constitution

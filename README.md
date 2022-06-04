@@ -1,84 +1,10 @@
 ---
 description: >-
-  CureDAO is an open collaborative building a community-owned, no-code digital
+  deFDA is an open collaborative building a community-owned, no-code digital
   health platform to accelerate clinical research and realize the personalized,
   precision medicine of the future.
 ---
-
 # 💡 Litepaper
-
-## tl;dr
-
-**Question:** How can we have a massive explosion in health data and digital health technology and have no improvement in lifespan or reduction in costs?&#x20;
-
-![](.gitbook/assets/data-growth-apps-life-expectancy-costs-charts.png)
-
-![](.gitbook/assets/chloe-can-you-not.gif)
-
-**Answer:** Gross inefficiency and data hoarding.&#x20;
-
-Over 350,000 digital health developers are ultimately trying to improve human health and wasting billions of dollars 💸 and billions of hours ⏳ building the same features. We have a market incentive structure that punishes open-source cooperation, and data sharing and 💰 rewards closed, proprietary, and wasteful duplication of effort.&#x20;
-
-**Solution:** An open platform for clinical research that incentivizes cooperation and data sharing.&#x20;
-
-CureDAO utilizes a new meritocratic economic system of Collaborationism that will transcend the incentivization failures and inefficiencies of previous economic models such as Communism and Capitalism.  The CureDAO incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors of work, data, and IP with ongoing royalties.
-
-![How Collaborationism Makes Everyone Better Off](<.gitbook/assets/value-chain-diagram (1).png>)
-
-Our hypothesis (and dream) is that this new system can accelerate the rate of clinical discovery 350,000 times 🚀️ and create a world where suffering is optional. 😃
-
-But we can't realize this dream without you!
-
-#### **👉** [**Join Us Right Now!**](https://curedao.org/join-us)****
-
-Hmm. You're still here, so I guess you're not convinced. 😕 Then venture on, dear reader!
-
-## The WordPress of Health Data
-
-Our first project is a community-owned, open-source, no-code platform for health data aggregation and analysis.
-
-It will provide a basic foundational technology layer to remove barriers for physicians, researchers, clinicians, and developers of digital health applications.
-
-It consists of two primary components:
-
-### 1. The Core Open-Source Platform
-
-* Storage
-* Security
-* Access Control
-* De-identified Data Sharing
-* API with Advanced Querying Capabilities
-
-### 2. The 3rd Party Plugin Framework
-
-* Data import from any source
-* Data Format Transformation
-* Data visualizations
-* Machine learning algorithms
-* Data analysis
-* Personalized Health Dashboards
-
-![The Platform](.gitbook/assets/simplified-platform-architecture-diagram.png)
-
-Our novel incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors with royalties.
-
-### Join Us Right Now!
-
-Hey, you! 👀
-
-Our community is open to anyone interested in accelerating precision health and new discoveries. Our success is dependent on the participation of people like you. 🚀
-
-Surely, you've been persuaded by now after seeing all those exciting diagrams?
-
-**👉** [**Join Us Right Now!**](https://curedao.org/join-us)****
-
-What?!? You're still reading? Didn't you see that pointy hand icon? That means click it!
-
-Fine. Have it your way.
-
-Then you can read our Lite Paper. But I'm warning you. It's just a string of alphanumeric characters arranged in arbitrary patterns according to rules some British guy randomly came up with a long time ago.
-
-## 💡 Litepaper
 
 ### :skull\_crossbones: Problem: You and Everyone You Love Will Suffer and Die
 
@@ -100,7 +26,7 @@ The human body can be viewed as a black box with inputs (like diet, treatments, 
 * **Discovering Hidden Causes of Illness** - Data mining and analysis to identify hidden factors in our daily life that are making us sicker
 * **Preventative medicine** - Predictive analytics and data analysis of genetic, lifestyle, and social circumstances to prevent disease
 * **Precision medicine** - Leveraging aggregate data to determine the precise treatments and dosages for your unique biology
-* **Accelerated Treatment Discovery** - Data-driven medical and pharmacological research to discover new treatments and medicines
+* **Accelerated Treatment Discovery** - Data-driven medical and pharmacological research to di[](https://)scover new treatments and medicines
 * **Reduction of adverse medication events** - Harnessing big data to spot medication errors and flag potential adverse reactions
 * **Cost reduction** - Driving better patient outcomes for long-term savings through prevention and avoidance of expensive and ineffective treatments
 * **Population health** - Identify health strategies based on demographic, geographic, and socioeconomic trends
@@ -151,7 +77,7 @@ Despite this massive growth in health data and innovation, we've seen increased 
 
 The reason is awful **incentives**. There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps, and each costs an average of [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) to develop. Most have significant overlap in functionality, representing a cost of [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on duplication of effort.
 
-![](<.gitbook/assets/collaboration-is-punished (1).PNG>)
+![](.gitbook/assets/collaboration-is-punished (1).PNG)
 
 Isolated streams of health data can only tell us about the past. For example, dashboards filled with descriptive statistics such as our daily steps or sleep.
 
@@ -203,7 +129,7 @@ Create a basic foundational technology layer suitable for any digital health app
 * Algorithm and scores development (e.g., in-silico trials)
 * Niche health applications with specific requirements or custom integrations
 
-![CureDAO Platform](.gitbook/assets/large-platform-diagram-no-colors.png)
+![deFDA Platform](.gitbook/assets/large-platform-diagram-no-colors.png)
 
 The platform consists of two primary components:
 
@@ -238,7 +164,7 @@ Value stream management allows the exchange of data for tokens.
 * Electronic Health Record System Plugins
 * Clinical Trial Management Plugins
 
-![Branded Plugins](<.gitbook/assets/plugin-marketplace (1).png>)
+![Branded Plugins](.gitbook/assets/plugin-marketplace (1).png)
 
 **Data Analysis Plugins**
 
@@ -265,9 +191,9 @@ We use the DAO structure and NFT IP royalties to reward data sharing and open-so
 
 ### Incentive Alignment
 
-This illustrates the flow of value between different stakeholders. Unlike traditional zero-sum games, CureDAO provides everyone with more value from participation than they have to put into it.
+This illustrates the flow of value between different stakeholders. Unlike traditional zero-sum games, deFDA provides everyone with more value from participation than they have to put into it.
 
-![Value Flow Chain](<.gitbook/assets/value-chain-diagram (2).png>)
+![Value Flow Chain](.gitbook/assets/value-chain-diagram (2).png)
 
 #### 1. Patients
 
@@ -312,7 +238,7 @@ Disease advocacy nonprofits will benefit from promoting studies to their members
 
 ## 🏛 Organization
 
-CureDAO is a laboratory consisting of many experiments.
+deFDA is a laboratory consisting of many experiments.
 
 It's a global laboratory where the 7 billion human "natural experiments" are conducted, revealing the effects of various factors on human health and happiness.
 
@@ -326,29 +252,29 @@ Given the unprecedented nature of such a project, each working group will consta
 
 Accordingly, the organization is composed of three primary components.
 
-1. Citizen Scientists - CureDAO is an open and permissionless organization. Anyone has the right to earn their Citizenship through the contribution of labor or resources. In exchange, the Citizen Scientist will receive CureDAO tokens granting full governance rights over the actions of DAO Lab Staff.
+1. Citizen Scientists - deFDA is an open and permissionless organization. Anyone has the right to earn their Citizenship through the contribution of labor or resources. In exchange, the Citizen Scientist will receive deFDA tokens granting full governance rights over the actions of DAO Lab Staff.
 2. DAO Laboratories - Internal working groups that carry out the Citizen Scientists' will.
 3. External Service Providers - Individuals or entities outside the DAO deemed necessary to carry out the Citizen Scientists' will.
 
 ## Tokenomics
 
-The CureDAO governance token is used to incentivize data sharing and open-source collaboration. Tokens are obtained by contributing work, data, IP, or funds to CureDAO.
+The deFDA governance token is used to incentivize data sharing and open-source collaboration. Tokens are obtained by contributing work, data, IP, or funds to deFDA.
 
-Tokens grant CureDAO [Citizen Scientists](constitution/5-organization.md) the right to decide how the DAO's resources are distributed.
+Tokens grant deFDA [Citizen Scientists](constitution/5-organization.md) the right to decide how the DAO's resources are distributed.
 
 ### Token Genesis
 
-The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world's population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](constitution/5-organization.md), 9.4 billion CureDAO tokens will be created.
+The goal of deFDA is for every human on earth to share the natural experiments that define their existence. The world's population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](constitution/5-organization.md), 9.4 billion deFDA tokens will be created.
 
-The genesis distribution event will make 10% of CureDAO's total token supply available to interested participants using a fair and open smart contract auction.
+The genesis distribution event will make 10% of deFDA's total token supply available to interested participants using a fair and open smart contract auction.
 
 ![](.gitbook/assets/token-distribution.png)
 
-Since CureDAO's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
+Since deFDA's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
 
 ## 💰 Revenue
 
-CureDAO generates revenue streams to compensate IP and data contributors and sustain and grow the project. The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
+deFDA generates revenue streams to compensate IP and data contributors and sustain and grow the project. The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
 
 ![](.gitbook/assets/sector-growth-chart.png)
 
@@ -374,11 +300,11 @@ Although the project core framework will be open-source for any non-commercial p
 
 ## 📔 Legal Framework
 
-A decentralized autonomous organization, or a "DAO," is an "organization" encoded as a transparent computer program, controlled by the organization members and not by a central corporate entity. CureDAO will utilize an unincorporated nonprofit association (UNA) as a 'wrapper' to facilitate the entering of contracts.
+A decentralized autonomous organization, or a "DAO," is an "organization" encoded as a transparent computer program, controlled by the organization members and not by a central corporate entity. deFDA will utilize an unincorporated nonprofit association (UNA) as a 'wrapper' to facilitate the entering of contracts.
 
 ## 😷 Privacy
 
-CureDAO will use deidentification and obfuscated but equivalent data synthetically derived from actual patient data to protect privacy.
+deFDA will use deidentification and obfuscated but equivalent data synthetically derived from actual patient data to protect privacy.
 
 ![de-identification](.gitbook/assets/deidentification.png)
 

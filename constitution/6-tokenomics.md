@@ -1,6 +1,6 @@
 ---
 description: >-
-  How CureDAO governance tokens, the primary store of value in the CureDAO
+  How deFDA governance tokens, the primary store of value in the deFDA
   ecosystem, are created, distributed, and used.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 👈 [Back to Table of Contents](../)
 
-The CureDAO token is the economic driver of the CureDAO platform. Tokens are obtained by contributing work, data, IP, or funds to CureDAO. The core function of $dCURES is to incentivize data sharing and open-source collaboration.
+The deFDA token is the economic driver of the deFDA platform. Tokens are obtained by contributing work, data, IP, or funds to deFDA. The core function of $dCURES is to incentivize data sharing and open-source collaboration.
 
 dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
 
@@ -20,20 +20,20 @@ dCURES tokens grant [Citizen Scientists](5-organization.md) the right to decide:
 6. Which Gitcoin Grants or Bounties receive funds
 7. What IP contributors will receive funds and how much
 8. How internal [DAO Laboratories](5-organization.md) budgets and projects are funded
-9. How CureDAO is governed
-10. How the CureDAO treasury will be managed
+9. How deFDA is governed
+10. How the deFDA treasury will be managed
 
 ## Token Genesis
 
-30% of the total supply will go to the community during the initial genesis, and 70% remain unminted and available in CureDAO’s treasury to ensure the sustainability of the platform. Members may elect to issue further tokens at any time to the public or select strategic entities and funders. Furthermore, CureDAO may allocate tokens to various incentive mechanisms as proposed herein or by the community.
+30% of the total supply will go to the community during the initial genesis, and 70% remain unminted and available in deFDA’s treasury to ensure the sustainability of the platform. Members may elect to issue further tokens at any time to the public or select strategic entities and funders. Furthermore, deFDA may allocate tokens to various incentive mechanisms as proposed herein or by the community.
 
 ### Token Supply and Distribution
 
 #### Option 1: Token Supply
 
-The goal of CureDAO is for every human on earth to share the natural experiments that define their existence. The world’s population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](5-organization.md), upon genesis, 9.4 billion CureDAO tokens will be created as ERC20 tokens controlled by CureDAO. CureDAO’s token begins unable to exceed that number - it is a capped ERC20 token. This token supply may only increase if the world population exceeds 9.4 billion.
+The goal of deFDA is for every human on earth to share the natural experiments that define their existence. The world’s population is projected to peak at 9.4 billion around 2070. To enable everyone to become a [Citizen Scientist](5-organization.md), upon genesis, 9.4 billion deFDA tokens will be created as ERC20 tokens controlled by deFDA. deFDA’s token begins unable to exceed that number - it is a capped ERC20 token. This token supply may only increase if the world population exceeds 9.4 billion.
 
-The genesis distribution event will make 10% of CureDAO’s total token supply available to interested participants using a fair and open smart contract auction on the Ethereum blockchain.
+The genesis distribution event will make 10% of deFDA’s total token supply available to interested participants using a fair and open smart contract auction on the Ethereum blockchain.
 
 ![](<../.gitbook/assets/image (4).png>)
 
@@ -45,13 +45,13 @@ The genesis distribution event will make 10% of CureDAO’s total token supply a
 | 6.58B          | 70%               | Treasury                  |
 | **9.4B**       | **100%**          | **Total**                 |
 
-Since CureDAO’s genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
+Since deFDA’s genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
 
-CureDAO will be fully decentralized and community-owned from inception. No entity will own CureDAO tokens before the genesis contribution event.
+deFDA will be fully decentralized and community-owned from inception. No entity will own deFDA tokens before the genesis contribution event.
 
-dCURE’s genesis contribution event will run via a fair launch public auction, granting all successful auction participants equal governance rights per CureDAO token. Once issued the first 10% of tokens, the CureDAO core community will begin voting on the first governance proposals to allocate additional tokens to DAO Laboratory working groups and service providers.
+dCURE’s genesis contribution event will run via a fair launch public auction, granting all successful auction participants equal governance rights per deFDA token. Once issued the first 10% of tokens, the deFDA core community will begin voting on the first governance proposals to allocate additional tokens to DAO Laboratory working groups and service providers.
 
-The approval of these allocations to [DAO Laboratories](5-organization.md), contributors, and service providers is at the full discretion of genesis [Citizen Scientists](5-organization.md) and their approval. They form the core of CureDAO’s decision-making and executive body.
+The approval of these allocations to [DAO Laboratories](5-organization.md), contributors, and service providers is at the full discretion of genesis [Citizen Scientists](5-organization.md) and their approval. They form the core of deFDA’s decision-making and executive body.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  To protect privacy, CureDAO will use deidentification and obfuscated but
+  To protect privacy, deFDA will use deidentification and obfuscated but
   equivalent data synthetically derived from actual patient data.
 ---
 

@@ -350,11 +350,11 @@ The currently highly restrictive overly cautious method of clinical research pre
 
 We’re at the very beginning of thousands or millions of years of systematic discovery. So it’s unlikely that this decline in lifespan growth is the result of diminishing returns due to our running out of things to discover.
 
-However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of CureDAO.
+However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of deFDA.
 
 ## Proof of Concept
 
-So far, CureDAO has anonymously aggregated and analyzed data set from over 10 million data points on symptom severity and influencing factors from over 10,000 participants. This data has been used to publish 90,000 studies on the effects of various treatments and food ingredients on condition severity in The [Journal of Citizen Science](https://studies.crowdsourcingcures.org). The accuracy and precision of these studies will continue to improve as more data points are collected and better machine-learning plugins are implemented in the platform.
+So far, deFDA has anonymously aggregated and analyzed data set from over 10 million data points on symptom severity and influencing factors from over 10,000 participants. This data has been used to publish 90,000 studies on the effects of various treatments and food ingredients on condition severity in The [Journal of Citizen Science](https://studies.crowdsourcingcures.org). The accuracy and precision of these studies will continue to improve as more data points are collected and better machine-learning plugins are implemented in the platform.
 
 ![journal of citizen science](../.gitbook/assets/studies.crowdsourcingcures.org-cropped.jpg)
 

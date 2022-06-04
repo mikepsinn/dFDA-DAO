@@ -1,6 +1,6 @@
 ---
 description: >-
-  How CureDAO generates revenue streams to compensate IP and data contributors
+  How deFDA generates revenue streams to compensate IP and data contributors
   sustain and grow the project.
 ---
 

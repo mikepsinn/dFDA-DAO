@@ -149,7 +149,7 @@ The obstacle has been the free-rider problem. Software Developers that open sour
 
 The best that isolated data on individual aspects of human health can do is tell us about the past. For example, dashboards telling us how many steps we got or how much sleep we got are known as “descriptive statistics”. However, by integrating all available data from individuals, similar populations, as well as existing clinical research findings and applying machine learning we may achieve “prescriptive” real-time decision support.
 
-To facilitate data sharing, the CureDAO will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
+To facilitate data sharing, the deFDA will provide data providers with an onsite easily provisionable OAuth2 API server that will allow individuals to anonymously share their data with the global biobank.
 
 ![APIs make siloed data useful](../.gitbook/assets/apis-siloed-data.svg)
 

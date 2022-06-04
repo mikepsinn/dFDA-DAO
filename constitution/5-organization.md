@@ -9,7 +9,7 @@ description: >-
 
 👈 [Back to Table of Contents](../)
 
-CureDAO is a laboratory consisting of many experiments.
+deFDA is a laboratory consisting of many experiments.
 
 It’s a global laboratory where the 7 billion human “natural experiments” revealing the effects of various factors on human health and happiness are conducted.
 
@@ -29,7 +29,7 @@ Accordingly, the organization is composed of three primary components
 
 ### Citizen Scientists
 
-As an open and permissionless organization, anyone has the right to earn their Citizenship through the contribution of labor or resources. In exchange, the Citizen Scientist will receive CureDAO tokens granting full governance rights over the actions of DAO Lab Staff.
+As an open and permissionless organization, anyone has the right to earn their Citizenship through the contribution of labor or resources. In exchange, the Citizen Scientist will receive deFDA tokens granting full governance rights over the actions of DAO Lab Staff.
 
 Citizens may participate in:
 
@@ -63,7 +63,7 @@ The initial Laboratories will be created to carry out the following primary func
 
 #### Service Providers
 
-Service providers provide services to CureDAO, such as:
+Service providers provide services to deFDA, such as:
 
 * development work
 * IP sourcing and conversion to NFTs
@@ -74,7 +74,7 @@ Service providers provide services to CureDAO, such as:
 * customer support
 * marketing
 
-CureDAO will contract service providers and pay for their services with any of the following:
+deFDA will contract service providers and pay for their services with any of the following:
 
 1. DAO Governance Tokens
 2. Ethereum

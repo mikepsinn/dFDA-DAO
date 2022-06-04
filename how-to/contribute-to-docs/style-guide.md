@@ -1,5 +1,5 @@
 ---
-description: How to contribute to the CureDAO documentation.
+description: How to contribute to the deFDA documentation.
 ---
 
 # ✍ Writing Style Guide

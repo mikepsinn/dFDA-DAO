@@ -6,11 +6,11 @@ description: >-
 
 # 🪙 Quests and Tokens
 
-CureDAO is built on the [Aragon](https://client.aragon.org/#/curedao1) DAO platform. The unit of democratic power in CureDAO is the $GCURES tokens on the Harmony blockchain.
+deFDA is built on the [Aragon](https://client.aragon.org/#/curedao1) DAO platform. The unit of democratic power in deFDA is the $GCURES tokens on the Harmony blockchain.
 
-$GCURES tokens give you control over CureDAO and how it allocates its resources.
+$GCURES tokens give you control over deFDA and how it allocates its resources.
 
-$GCURES tokens are awarded for the completion of quests and experiments that advance the CureDAO mission. Quests and Experiments are outlined in Clickup Tasks
+$GCURES tokens are awarded for the completion of quests and experiments that advance the deFDA mission. Quests and Experiments are outlined in Clickup Tasks
 
 ## Your First Quest
 
@@ -44,7 +44,7 @@ Create valuable guest posts or articles, graphic design work, ideas, write a tho
 
 #### Add New Contributors
 
-Get a new person to become a part of CureDAO and contribute
+Get a new person to become a part of deFDA and contribute
 
 #### Top contributors
 

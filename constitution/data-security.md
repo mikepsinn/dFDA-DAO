@@ -1,33 +1,33 @@
 ---
-description: CureDAO data security policies and incident management
+description: deFDA data security policies and incident management
 ---
 
 # 🔓 Data Security
 
 ### DATA SECURITY POLICY IN BRIEF
 
-CureDAO focuses on security from the ground up. Our Data Center (managed by Amazon Web Services) is SAS 70 Type II certified, SSAE16 (SOC 2) Compliant, and features proximity security badge access and digital security video surveillance. Our server network can only be accessed via SSL VPN with public key authentication or via Two-factor Authentication over SSL. We run monthly Qualys Vulnerability Assessments on our production environment. Additionally, our network can only be accessed via multi-factor authentication, and all access to our web portal is secured over HTTPS using SSL 256-bit encryption. Additionally, all staff members with access to Client Data receive certification as a HIPAA Privacy Associate.
+deFDA focuses on security from the ground up. Our Data Center (managed by Amazon Web Services) is SAS 70 Type II certified, SSAE16 (SOC 2) Compliant, and features proximity security badge access and digital security video surveillance. Our server network can only be accessed via SSL VPN with public key authentication or via Two-factor Authentication over SSL. We run monthly Qualys Vulnerability Assessments on our production environment. Additionally, our network can only be accessed via multi-factor authentication, and all access to our web portal is secured over HTTPS using SSL 256-bit encryption. Additionally, all staff members with access to Client Data receive certification as a HIPAA Privacy Associate.
 
 DEFINITION OF TERMS & SYSTEM USERS:
 
-* Client — A customer of CureDAO.
-* User — An individual with access to a CureDAO Application.
-* Admin — A Client User with the capability of viewing and managing certain aspects of the Client's CureDAO Account.
-* Member — A Client User whose account is provisioned through Client’s Web Portal. A Member cannot log in or otherwise access any CureDAO Application directly. All Member Data stored in our system is de-identified in compliance with the HIPAA “Safe Harbor” de-identification standard.
-* Developer — A User that can create vendor applications in CureDAO for the purpose of integrating mobile health apps and/or devices.
-* CureDAO Admin — A CureDAO employee with access to managing a Client’s account.
+* Client — A customer of deFDA.
+* User — An individual with access to a deFDA Application.
+* Admin — A Client User with the capability of viewing and managing certain aspects of the Client's deFDA Account.
+* Member — A Client User whose account is provisioned through Client’s Web Portal. A Member cannot log in or otherwise access any deFDA Application directly. All Member Data stored in our system is de-identified in compliance with the HIPAA “Safe Harbor” de-identification standard.
+* Developer — A User that can create vendor applications in deFDA for the purpose of integrating mobile health apps and/or devices.
+* deFDA Admin — A deFDA employee with access to managing a Client’s account.
 
 ### DATA CENTER AND HARDWARE
 
-All CureDAO application and database servers are physically managed by Amazon Web Services in secure data centers within the United States. Our security procedures utilize industry best practices from sources including The Center for Internet Security (CIS), Microsoft, Red Hat, and more. All data center facilities are certified SSAE 16 (SOC 2) Compliant and have 24/7 physical security of data centers and Network Operations Center monitoring.
+All deFDA application and database servers are physically managed by Amazon Web Services in secure data centers within the United States. Our security procedures utilize industry best practices from sources including The Center for Internet Security (CIS), Microsoft, Red Hat, and more. All data center facilities are certified SSAE 16 (SOC 2) Compliant and have 24/7 physical security of data centers and Network Operations Center monitoring.
 
 ### Physical Security
 
-All servers are located in Data Centers managed by Amazon Web Services within the United States. Physical access is controlled both at the perimeter and at building ingress points by professional security staff utilizing video surveillance, intrusion detection systems, and other electronic means. CureDAO employees do not have access to physical server hardware.
+All servers are located in Data Centers managed by Amazon Web Services within the United States. Physical access is controlled both at the perimeter and at building ingress points by professional security staff utilizing video surveillance, intrusion detection systems, and other electronic means. deFDA employees do not have access to physical server hardware.
 
 ### Data Access and Server Management Security
 
-CureDAO has IPSec VPN connections to our hosting environment. Only select CureDAO employees are able to access the server network.
+deFDA has IPSec VPN connections to our hosting environment. Only select deFDA employees are able to access the server network.
 
 ### Environmental Safeguards
 
@@ -35,14 +35,14 @@ All Amazon Web Services data centers are equipped with automatic fire detection 
 
 ### DATA STORAGE AND BACKUPS
 
-All Member Data stored in our system is de-identified in compliance with the HIPAA “Safe Harbor” de-identification standard, and all data is encrypted at rest using 256-bit AES. CureDAO production database servers are replicated across multiple availability zones. Database backups use a fully disk-based solution (disk-to-disk) and full system backups are performed daily, weekly, and monthly. Daily backups are retained for a minimum of 7 days, weekly backups are retained for a minimum of 4 weeks, monthly backups are retained for 3 years. Backups are stored in multiple geographic availability zones within Amazon Web Services.
+All Member Data stored in our system is de-identified in compliance with the HIPAA “Safe Harbor” de-identification standard, and all data is encrypted at rest using 256-bit AES. deFDA production database servers are replicated across multiple availability zones. Database backups use a fully disk-based solution (disk-to-disk) and full system backups are performed daily, weekly, and monthly. Daily backups are retained for a minimum of 7 days, weekly backups are retained for a minimum of 4 weeks, monthly backups are retained for 3 years. Backups are stored in multiple geographic availability zones within Amazon Web Services.
 
 ### Client Data Policies
 
-Client Data includes data stored by Clients in CureDAO applications, information about a Client’s usage of the application, data instances in the CRM system that we have access to, or data that the Client has supplied to use for support or implementation. Here are the special considerations we take into account when managing Client Data:
+Client Data includes data stored by Clients in deFDA applications, information about a Client’s usage of the application, data instances in the CRM system that we have access to, or data that the Client has supplied to use for support or implementation. Here are the special considerations we take into account when managing Client Data:
 
-1. Client Data is not to be disclosed outside of CureDAO, except to the Client who owns the data or to a Partner who has been contracted by the Client to manage or support their account. Client Data should only be shared using a secure sending method. Approved sending and sharing methods include Dropbox, Google Drive, emailing of encrypted files or use of a Client-provided secure transfer method.
-2. Client Data should only be stored temporarily outside of the CureDAO Application if at all. If there is a need to archive Client Data (for example, data provided by a Client during implementation or training), the data should be stored on a central file server and deleted from any personal computers. This includes report exports, contact lists, and presentations that contain Client information, and Client agreements.
+1. Client Data is not to be disclosed outside of deFDA, except to the Client who owns the data or to a Partner who has been contracted by the Client to manage or support their account. Client Data should only be shared using a secure sending method. Approved sending and sharing methods include Dropbox, Google Drive, emailing of encrypted files or use of a Client-provided secure transfer method.
+2. Client Data should only be stored temporarily outside of the deFDA Application if at all. If there is a need to archive Client Data (for example, data provided by a Client during implementation or training), the data should be stored on a central file server and deleted from any personal computers. This includes report exports, contact lists, and presentations that contain Client information, and Client agreements.
 3. Client Data should only be accessed on a need-to-know basis. Specifically, a Client’s account should only be accessed to provide support, troubleshoot a problem with that account, or for supporting the system as a whole.
 4. Client Data should never be changed except with the explicit permission of the Client, with the exception of repairing data quality issues.
 
@@ -56,7 +56,7 @@ Old computers and servers used to store or access client information receive a 7
 
 ### Incident Response
 
-CureDAO security administrators will be immediately and automatically notified via email if implemented security protocols detect an incident. All other suspected intrusions, suspicious activity, or system unexplained erratic behavior discovered by administrators, users, or computer security personnel must be reported to a security administrator within 1 hour.
+deFDA security administrators will be immediately and automatically notified via email if implemented security protocols detect an incident. All other suspected intrusions, suspicious activity, or system unexplained erratic behavior discovered by administrators, users, or computer security personnel must be reported to a security administrator within 1 hour.
 
 Once an incidence is reported, security administrators will immediately begin verifying that an incident occurred and the nature of the incident with the following goals:
 
@@ -76,7 +76,7 @@ Clients will be notified via email within one hour upon detection of any inciden
 
 ### APPLICATION SECURITY
 
-All data transfer and access to CureDAO applications will occur only on Port 443 over an HTTPS encrypted connection with 256-bit SSL encryption.
+All data transfer and access to deFDA applications will occur only on Port 443 over an HTTPS encrypted connection with 256-bit SSL encryption.
 
 ### System Updates and Security Patches
 
@@ -84,7 +84,7 @@ As a hosted solution, we regularly improve our system and update security patche
 
 ### Vulnerability and Security Testing
 
-CureDAO performs Qualys Vulnerability Assessments and creates external security reports of our production environment once a month. Additional internal security testing is performed on the testing environment before code is checked into a master repository.
+deFDA performs Qualys Vulnerability Assessments and creates external security reports of our production environment once a month. Additional internal security testing is performed on the testing environment before code is checked into a master repository.
 
 ### User Login and Session Security
 
@@ -94,27 +94,27 @@ All Member logins and sessions are authenticated via a secure OAuth 2.0 access t
 
 Admin passwords must have at least 8 characters with at least one number and one letter.
 
-CureDAO Admin passwords must have at least 8 characters with at least one number and one letter and at minimum either one capital letter and/or one special character.
+deFDA Admin passwords must have at least 8 characters with at least one number and one letter and at minimum either one capital letter and/or one special character.
 
 ### DISASTER RECOVERY
 
-CureDAO maintains real-time data stores mirrored across multiple geographic availability zones in Amazon Web Services within the United States. In a disaster situation, the full CureDAO platform will be recreated and available in a different availability zone within 1hr of the disaster declarations.
+deFDA maintains real-time data stores mirrored across multiple geographic availability zones in Amazon Web Services within the United States. In a disaster situation, the full deFDA platform will be recreated and available in a different availability zone within 1hr of the disaster declarations.
 
 ### HIPAA & PHI COMPLIANCE
 
 In addition to the above HIPAA compliant policies for data storage and handling, the following procedures are in place to ensure HIPAA compliance:
 
-1. All CureDAO employees receive annual HIPAA Business Associate training and certification
-2. CureDAO web-based applications receive annual internal HIPAA audits
+1. All deFDA employees receive annual HIPAA Business Associate training and certification
+2. deFDA web-based applications receive annual internal HIPAA audits
 
 ### PHI Handling Policy
 
-All CureDAO staff members are made aware of relevant external regulations as part of their induction process, and all staff who may come into contact with PHI are trained in our PHI handling processes.
+All deFDA staff members are made aware of relevant external regulations as part of their induction process, and all staff who may come into contact with PHI are trained in our PHI handling processes.
 
-CureDAO anonymizes PHI upon receipt and destroys the original except in exceptional circumstances. Where anonymization is not possible (for example for technical reasons or where a product problem can only be recreated using PHI or if the Client specifies the data cannot be anonymized (e.g. if we are investigating a problem on a Client’s workstation), access to the data is restricted and the data is destroyed or returned to the Client as soon as it is no longer needed. Under no circumstances should identified data be added to the company dataset library.
+deFDA anonymizes PHI upon receipt and destroys the original except in exceptional circumstances. Where anonymization is not possible (for example for technical reasons or where a product problem can only be recreated using PHI or if the Client specifies the data cannot be anonymized (e.g. if we are investigating a problem on a Client’s workstation), access to the data is restricted and the data is destroyed or returned to the Client as soon as it is no longer needed. Under no circumstances should identified data be added to the company dataset library.
 
-CureDAO expects the professional integrity of our collaborators, clients, and partners providing PHI to us and will assume that they have obtained the data subject’s consent to use their data in this way.
+deFDA expects the professional integrity of our collaborators, clients, and partners providing PHI to us and will assume that they have obtained the data subject’s consent to use their data in this way.
 
-Where a Business Associate Agreement or similar contract relating to PHI is in place, CureDAO staff members work under the terms of that agreement. Where no such agreement exists, the CureDAO PHI handling policy and process are followed.
+Where a Business Associate Agreement or similar contract relating to PHI is in place, deFDA staff members work under the terms of that agreement. Where no such agreement exists, the deFDA PHI handling policy and process are followed.
 
-CureDAO conducts periodic internal audits on compliance with this policy.
+deFDA conducts periodic internal audits on compliance with this policy.
