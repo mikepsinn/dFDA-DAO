@@ -20,14 +20,16 @@ Unfortunately, the congressional mandate of the US Food and Drug Administration 
 
 ### The US FDA’s Mandate is Not to Maximize Lives Saved
 
-Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the “ **safety and efficacy of drugs and medical devices** “. The only way to perfectly fulfill this mandate is drive the regulatory financial barrier to a new treatments to infinity. That would 100% guarantee that an unsafe or ineffective drug ever gets on the market again. The massive explosion in the cost of drug development is the logical consequence of this mandate.
+Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the “**safety and efficacy of drugs and medical devices**“. The only way to perfectly fulfill this mandate is to drive the regulatory financial barrier to develop new treatments to infinity. That would 100% guarantee that an unsafe or ineffective drug ever gets on the market again. The massive explosion in the cost of drug development is the logical consequence of this mandate.
 
-A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan** .
+
+
+A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan**.
 
 ## Hypotheses
 
-1. Given clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
-2. It is possible to implement such a regulatory body in an micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction on Honduras.
+1. Given a clear and optimized mandate, the crowd wisdom of a large body of medical experts can produce policies that are more effective at extending healthy human lifespan than the current regulatory framework.
+2. It is possible to implement such a regulatory body in a micro-state or economic zone such as Prospera, a semi-autonomous jurisdiction in Honduras.
 3. Evidence of the success of this model will make it possible to promote adoption by other micro-nations.
 4. Evidence of the success of this model will make it possible to promote adoption by increasingly larger states.
 
@@ -108,17 +110,11 @@ This means that it's only logical for regulators to reject drug applications by 
 | FDA Allows the Drug         | Correct Decision                                         | <p><br>Victims are identifiable and might appear on Oprah.</p> |
 | FDA Does Not Allow the Drug | <p>Victims are not identifiable or acknowledged.<br></p> | Correct Decision                                               |
 
-#### Current Regulation Expects Drug Developers to Have Psychic Powers
+####
 
-When running an efficacy trial, the FDA expects that the drug developer has the psychic ability to predict which conditions a treatment will be most effective for in advance of collecting the human trial data. If it was possible to magically determine this without any trials, it would render efficacy trials completely pointless.
-
-In 2007, manufacturer Dendreon submitted powerful evidence attesting to the safety and efficacy of its immunotherapy drug Provenge, which targets prostate cancer. They were able to show that the drug resulted in a significant decline in deaths among its study population, which even persuaded the FDA advisory committee to weigh in on the application. But ultimately, the FDA rejected its application.
-
-The FDA was unmoved by the evidence, simply because Dendreon didn’t properly specify beforehand what its study was trying to measure. Efficacy regulations state that finding a decline in deaths is not enough. The mountains of paperwork must be filled out just so and in the correct order. It took three more years and yet another large trial before the FDA finally approved the life-saving medication.
-
-Due to all the additional costs imposed by the efficacy trial burden, Dendreon ultimately [filed for chapter 11 bankruptcy](https://www.targetedonc.com/view/dendreon-files-for-bankruptcy-provenge-still-available).
-
-In addition to the direct costs to companies, the extreme costs and financial risks imposed by efficacy trials have a huge chilling effect on investment in new drugs. If you're an investment adviser, trying to avoid losing your client's retirement savings, you're much better off investing in a more stable company like a bomb manufacturer building products to intentionally kill people than a drug developer trying to save lives. So it's impossible to know all of the treatments that never even got to an efficacy trial stage due to the effects of decreased investment due to the regulatory risks.
+{% content-ref url="pre-determining-clinical-endpoints-requires-psychic-powers.md" %}
+[pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
+{% endcontent-ref %}
 
 ### What We Don't Know
 
@@ -152,10 +148,9 @@ Failed drug applications are expensive. A global database of treatments and outc
 * Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 * Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 
-**Cost Savings Through Decentralization**
-
-* In phase II studies, the typical decentralized clinical trial (DCT) deployment produced a [400%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment in terms of trial cost reductions.
-* In phase III studies, decentralization produced a [1300%](https://github.com/cure-dao/docs/blob/main/assets/financial-benefits-of-decentralized-trials.pdf) return on investment.
+{% content-ref url="cost-savings-from-decentralized-clinical-trials.md" %}
+[cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
+{% endcontent-ref %}
 
 **Meta-Analyses Support of Real-World Evidence**
 
@@ -235,31 +230,13 @@ Since the abandonment of the former efficacy trial model, costs have exploded. S
 
 ![](.gitbook/assets/cost-to-develop-a-new-drug.png)
 
-**High Cost of Development Favors Monopoly and Punishes Innovation**
+{% content-ref url="greater-competitive-innovation-and-fewer-monopolies.md" %}
+[greater-competitive-innovation-and-fewer-monopolies.md](greater-competitive-innovation-and-fewer-monopolies.md)
+{% endcontent-ref %}
 
-There's another problem with the increasing costs of treatment development. In the past, a genius scientist could come up with a treatment, raise a few million dollars, and do safety testing. Now that it costs a billion dollars to get a drug to market, the scientist has to persuade one of a few giant drug companies that can afford it to buy his patent.
-
-Then the drug company has two options:
-
-**Option 1: Risk $1 billion on clinical trials**
-
-**Possibility A:** Drug turns out to be one of the 90% the FDA rejects. GIVE BANKER A BILLION DOLLARS. DO NOT PASS GO.
-
-**Possibility B:** Drug turns out to be one of the 10%, the FDA approves. Now it's time to try to recover that billion dollars. However, very few drug companies have enough money to survive this game. So, this company almost certainly already has an existing inferior drug on the market to treat the same condition. Hence, any profit they make from this drug will likely be subtracted from revenue from other drugs they've already spent a billion dollars on.
-
-**Option 2: Put the patent on the shelf**
-
-Do not take a 90% chance of wasting a billion dollars on failed trials. Do not risk making your already approved cash-cow drugs obsolete.
-
-What's the benefit of bringing better treatment to market if you're just going to lose a billion dollars? Either way, the profit incentive is entirely in favor of just buying better treatments and shelving them.
-
-**Cures Are Far Less Profitable Than Lifetime Treatments**
-
-If the new treatment is a permanent cure for the disease, replacing a lifetime of refills with a one-time purchase would be economically disastrous for the drug developer. With a lifetime prescription, a company can recover its costs over time. Depending on the number of people with the disease, one-time cures would require a massive upfront payment to recover development costs.
-
-How is there any financial incentive for medical progress at all?
-
-Fortunately, there isn't a complete monopoly on treatment development. However, the more expensive it is to get a drug to market, the fewer companies can afford the upfront R\&D investment. So the drug industry inevitably becomes more monopolistic. Thus there are more situations where the cost of trials for a superior treatment exceeds the profits from existing treatments.
+{% content-ref url="more-cures-and-less-lifelong-attempts-at-masking-symptoms.md" %}
+[more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
+{% endcontent-ref %}
 
 **People With Rare Disease are Severely Punished**
 
@@ -329,12 +306,6 @@ One might say “It seems more likely — or as likely — to me that drug devel
 
 You might say "I don't know how much the efficacy regulations contribute to or hampers public health. I do know that correlation does not necessarily imply causation." However, a correlation plus a logical mechanism of action is the least bad method we have for inferring the most likely significant causal factor for an outcome (i.e. life expectancy). Assuming most likely causality based on temporal correlation is the entire basis of a clinical research study and the scientific method generally.
 
-**Impact of Innovative Medicines on Life Expectancy**
-
-A [three-way fixed-effects analysis](https://pubmed.ncbi.nlm.nih.gov/30912800) of 66 diseases in 27 countries, suggests that if no new drugs had been launched after 1981, the number of years of life lost would have been 2.16 times higher it actually was. It estimates that pharmaceutical expenditure per life-year saved was [$2837](https://pubmed.ncbi.nlm.nih.gov/30912800).
-
-![Graph showing the shift in relative mortality among major diseases over 60 years.](http://valueofinnovation.org/assets/images/power-of-innovation/disease-causing-death-shift.gif)
-
-More people survive as more treatments are developed. There's a [strong correlation](http://valueofinnovation.org/power-of-innovation) between the development of new cancer treatments and cancer survival over 30 years.
-
-![Graph showing the correlation of developing new cancer treatments and cancer survival over 30 years.](http://valueofinnovation.org/assets/images/power-of-innovation/more-surviving-more-therapies.gif)
+{% content-ref url="impact-of-innovative-medicines-on-life-expectancy.md" %}
+[impact-of-innovative-medicines-on-life-expectancy.md](impact-of-innovative-medicines-on-life-expectancy.md)
+{% endcontent-ref %}
