@@ -101,7 +101,7 @@ Here's a news story from the Non-Existent Times by No One Ever without a picture
 
 ![](.gitbook/assets/non-existent-times.png)
 
-This means that it's only logical for regulators to reject drug applications by default. The personal risks of approving a drug with any newsworthy side effect far outweigh the personal risk preventing access to life-saving treatment.
+This means that it's only logical for regulators to reject drug applications by default. The personal risks of approving a drug with any newsworthy side effect far outweigh the personal risk of preventing access to life-saving treatment.
 
 **Types of Error in FDA Approval Decision**
 
@@ -152,21 +152,7 @@ Failed drug applications are expensive. A global database of treatments and outc
 [cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
 {% endcontent-ref %}
 
-**Meta-Analyses Support of Real-World Evidence**
-
-Observational real-world evidence-based studies have several advantages over randomized, controlled trials, including lower cost, increased speed of research, and a broader range of patients. However, concern about inherent bias in these studies has limited their use in comparing treatments. Observational studies have been primarily used when randomized, controlled trials would be impossible or unethical.
-
-However, [meta-analyses](https://www.nejm.org/doi/full/10.1056/NEJM200006223422506) found that:
-
-> when applying modern statistical methodologies to observational studies, the results are generally **not quantitatively or qualitatively different** from those obtained in randomized, controlled trials.
-
-**Mortality Observational Studies**
-
-![Mortality Observational Studies](.gitbook/assets/observational-vs-randomized-effect-sizes.png)
-
-**Observational Studies for Various Outcomes**
-
-![Observational Studies for Various Outcomes](.gitbook/assets/observational-vs-randomized-trial-effect-sizes.png)
+****
 
 **Historical Evidence in Support of Our Hypotheses**
 

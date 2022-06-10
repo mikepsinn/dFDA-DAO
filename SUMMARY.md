@@ -14,7 +14,7 @@
     * [✍ Writing Style Guide](how-to/contribute-to-docs/style-guide.md)
     * [👍 Vote on Amendments to the Constitution](how-to/contribute-to-docs/vote-on-amendments-to-the-constitution.md)
 * [🌎 Cost Savings from Decentralized Clinical Trials](cost-savings-from-decentralized-clinical-trials.md)
-* [Lower Costs Through Observational Research](lower-costs-through-observational-research.md)
+* [👀 Lower Costs of Validated Observational Research for Efficacy](lower-costs-of-validated-observational-research-for-efficacy.md)
 * [💡 Impact of Innovative Medicines on Life Expectancy](impact-of-innovative-medicines-on-life-expectancy.md)
 * [🧐 Greater Competitive Innovation and Fewer Monopolies](greater-competitive-innovation-and-fewer-monopolies.md)
 * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](pre-determining-clinical-endpoints-requires-psychic-powers.md)
