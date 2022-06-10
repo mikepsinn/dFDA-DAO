@@ -14,7 +14,7 @@ The solution to the lack of progress and increasing healthcare expense is to use
 
 Out of an existing pool of big health data, an insilico model of human biology can be developed to discover new interventions and their personalized dosages and combinations.
 
-One way to achieve this is to view the human body as a black box with inputs and outputs. We can apply [predictive machine learning models](broken-reference) to [stratified groups](https://en.wikipedia.org/wiki/Stratified\_sampling) of similar people based on the following aspects:
+One way to achieve this is to view the human body as a black box with inputs and outputs. We can apply [predictive machine learning models](broken-reference/) to [stratified groups](https://en.wikipedia.org/wiki/Stratified\_sampling) of similar people based on the following aspects:
 
 * [Genomic](https://en.wikipedia.org/wiki/Genomics)
 * [Transcriptomic](https://en.wikipedia.org/wiki/Transcriptome)
@@ -82,7 +82,7 @@ However, the massive amount of automatically collected, high-frequency longitudi
 
 The primary flaw with observational research is that they lack the control group. However, a single person can act as their own control group with high-frequency longitudinal data. This is done by using an A/B experiment design.
 
-![](../.gitbook/assets/causal\_clues-1024x652.png)
+![](../.gitbook/assets/causal-clues-1024x652.png)
 
 For instance, if one is suffering from arthritis and they want to know if a Turmeric Curcumin supplement helps, the experimental sequence would look like this:
 
@@ -334,17 +334,17 @@ We’re only 2 lifetimes from the use of the modern scientific method in medicin
 
 There are over [7,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans.
 
-![](../.gitbook/assets/rare-diseases.jpg)
+![](<../.gitbook/assets/rare-diseases (1).jpg>)
 
 There are as many untested compounds with drug-like properties as there are [atoms in the solar system](https://www.nature.com/articles/549445a) (166 billion).
 
-![](<../.gitbook/assets/number-of-molecules-with-drug-like-properties (1).png>)
+![](../.gitbook/assets/number-of-molecules-with-drug-like-properties.png)
 
 If you multiply the number of molecules with drug-like properties by the number of diseases, that's 1,162,000,000, 000,000 combinations. So far we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent).
 
 That means we only know 0.000000002% of what is left to be known.
 
-![](<../.gitbook/assets/how-much-we-know-numbers (2).png>)
+![](<../.gitbook/assets/how-much-we-know-numbers (1).png>)
 
 The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
 
@@ -400,6 +400,6 @@ So far, deFDA has anonymously aggregated and analyzed data set from over 10 mill
 38. [Causes of Death - Our World in Data](https://ourworldindata.org/causes-of-death)]
 39. [NVSS - Mortality - Historical Data (cdc.gov)](https://www.cdc.gov/nchs/nvss/mortality\_historical\_data.htm)
 
-#### [Next 3. Platform](3-platform.md) 👉
+#### [Next 3. Platform](broken-reference) 👉
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
