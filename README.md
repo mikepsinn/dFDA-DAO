@@ -122,17 +122,17 @@ We’re only 2 lifetimes from the use of the modern scientific method in medicin
 
 There are over [7,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans.
 
-![](.gitbook/assets/rare-diseases.jpg)
+![](<.gitbook/assets/rare-diseases (1).jpg>)
 
 There are as many untested compounds with drug-like properties as there are [atoms in the solar system](https://www.nature.com/articles/549445a) (166 billion).
 
-![](<.gitbook/assets/number-of-molecules-with-drug-like-properties (1).png>)
+![](.gitbook/assets/number-of-molecules-with-drug-like-properties.png)
 
 If you multiply the number of molecules with drug-like properties by the number of diseases, that's 1,162,000,000, 000,000 combinations. So far we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent).
 
 That means we only know 0.000000002% of what is left to be known.
 
-![](<.gitbook/assets/how-much-we-know-numbers (2) (5).png>)
+![](<.gitbook/assets/how-much-we-know-numbers (1) (5).png>)
 
 The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
 
