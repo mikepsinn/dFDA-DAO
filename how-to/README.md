@@ -25,7 +25,7 @@ Our main philosophy is: It's not what you CAN do, but what do you WANT to do is 
 
 Click 👉👉👉 [here](https://notionforms.io/forms/join-curedao) to tell us about your interests or project.
 
-You can join one of our [Laboratories](../constitution/5-organization.md) and help to create a world free of unnecessary suffering.
+You can join one of our [Laboratories](broken-reference) and help to create a world free of unnecessary suffering.
 
 💬 [Join Our Discord Channel](https://discord.com/invite/metKYrPuym)
 
