@@ -24,6 +24,6 @@ If they do nothing, it will be assumed that they did not review the proposal.
 
 Post-marketing pharmacovigilance data will be collected from the participants and used to determine the relative change .
 
-[**Next Revenue**](7-revenue.md) **👉**
+[**Next Revenue**](constitution/7-revenue.md) **👉**
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
