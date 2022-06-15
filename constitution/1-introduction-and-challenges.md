@@ -2,7 +2,7 @@
 description: The current system of clinical research is too slow, expensive, and imprecise.
 ---
 
-# ☠ Problems in Clinical Research
+# ☠ Problems We Seek To Address
 
 #### &#x20;The Cost of Clinical Research
 

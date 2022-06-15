@@ -99,8 +99,8 @@ This means that it's only logical for regulators to reject drug applications by 
 
 ####
 
-{% content-ref url="1-introduction-and-challenges/pre-determining-clinical-endpoints-requires-psychic-powers.md" %}
-[pre-determining-clinical-endpoints-requires-psychic-powers.md](1-introduction-and-challenges/pre-determining-clinical-endpoints-requires-psychic-powers.md)
+{% content-ref url="pre-determining-clinical-endpoints-requires-psychic-powers.md" %}
+[pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
 ### What We Don't Know
@@ -133,8 +133,8 @@ Failed drug applications are expensive. A global database of treatments and outc
 * Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 * Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
 
-{% content-ref url="2-solution/cost-savings-from-decentralized-clinical-trials.md" %}
-[cost-savings-from-decentralized-clinical-trials.md](2-solution/cost-savings-from-decentralized-clinical-trials.md)
+{% content-ref url="cost-savings-from-decentralized-clinical-trials.md" %}
+[cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
 {% endcontent-ref %}
 
 ****
@@ -201,12 +201,12 @@ Since the abandonment of the former efficacy trial model, costs have exploded. S
 
 ![](.gitbook/assets/cost-to-develop-a-new-drug.png)
 
-{% content-ref url="2-solution/greater-competitive-innovation-and-fewer-monopolies.md" %}
-[greater-competitive-innovation-and-fewer-monopolies.md](2-solution/greater-competitive-innovation-and-fewer-monopolies.md)
+{% content-ref url="greater-competitive-innovation-and-fewer-monopolies.md" %}
+[greater-competitive-innovation-and-fewer-monopolies.md](greater-competitive-innovation-and-fewer-monopolies.md)
 {% endcontent-ref %}
 
-{% content-ref url="2-solution/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md" %}
-[more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](2-solution/more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
+{% content-ref url="more-cures-and-less-lifelong-attempts-at-masking-symptoms.md" %}
+[more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
 {% endcontent-ref %}
 
 **People With Rare Disease are Severely Punished**

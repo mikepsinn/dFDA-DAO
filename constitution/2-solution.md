@@ -10,7 +10,7 @@ description: >-
 
 Out of an existing pool of big health data, an insilico model of human biology can be developed to discover new interventions and their personalized dosages and combinations.
 
-One way to achieve this is to view the human body as a black box with inputs and outputs. We can apply [predictive machine learning models](../constitution/broken-reference/) to [stratified groups](https://en.wikipedia.org/wiki/Stratified\_sampling) of similar people based on the following aspects:
+One way to achieve this is to view the human body as a black box with inputs and outputs. We can apply [predictive machine learning models](broken-reference/) to [stratified groups](https://en.wikipedia.org/wiki/Stratified\_sampling) of similar people based on the following aspects:
 
 * [Genomic](https://en.wikipedia.org/wiki/Genomics)
 * [Transcriptomic](https://en.wikipedia.org/wiki/Transcriptome)
