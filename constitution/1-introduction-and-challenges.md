@@ -32,7 +32,7 @@ Even if there is a financial incentive to research a new drug, there is no data 
 
 For instance, even after controlling for co-morbidities, the Journal of American Medicine recently found that long-term use of Benadryl and other anticholinergic medications is associated with an [increased](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2091745) risk for dementia and Alzheimer's disease.
 
-#### 1.2.2 Conflicts of Interest
+#### Conflicts of Interest
 
 Long-term randomized trials are extremely expensive to set up and run. When billions of dollars in losses or gains are riding on the results of a study, this will almost inevitably influence the results. For example, an analysis of beverage studies, [published in the journal PLOS Medicine,](https://web.archive.org/web/20211207021133/https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001578#s3) found that those funded by Coca-Cola, PepsiCo, the American Beverage Association, and the sugar industry were **five times** more likely to find no link between sugary drinks and weight gain than studies whose authors reported no financial conflicts.
 
@@ -44,7 +44,7 @@ Pharmaceutical companies that sponsor research often report only “positive” 
 
 This leads to a massive waste of money by other companies repeating the same research and going down the same dead-end streets that could have been avoided.
 
-### 1.2.3 Trials Often Aren't Representative of Real Patients
+### Trials Often Aren't Representative of Real Patients
 
 External validity is the extent to which the results can be generalized to a population of interest. The population of interest is usually defined as the people the intervention is intended to help.
 
