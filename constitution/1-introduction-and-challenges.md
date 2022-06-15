@@ -1,58 +1,10 @@
-# ☠ Introduction and Challenges
+---
+description: The current system of clinical research is too slow, expensive, and imprecise.
+---
 
-#### 👈 [Back to Table of Contents](../)
+# ☠ Problems in Clinical Research
 
-## 1. The Problem: You and Everyone You Love Will Suffer and Die
-
-There are over [2 billion](https://www.george-health.com/global-health-challenge/) people suffering from chronic diseases.
-
-Additionally, [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day by possibly preventable degenerative diseases. For perspective, this is equivalent to:
-
-* [**FIFTY-ONE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) September 11th attacks every day
-* [**NINE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) Holocausts every year
-
-![deaths from disease](../.gitbook/assets/deaths-from-disease-vs-deaths-from-terrorism-chart.png)
-
-**Will throwing more money at the existing healthcare system save us?**
-
-Since 2014, healthcare spending per person has been [increasing faster than ever](https://fred.stlouisfed.org/series/HLTHSCPCHCSA) faster than ever before.
-
-![health spending](../.gitbook/assets/us-healthcare-expenditure-per-person.png)
-
-Despite this additional spending, life expectancy has actually been \[declining]\(.. /assets/life-expectancy/life-expectancy-chart.png) since 2014.
-
-**Will digital health innovation save us?**
-
-There has been an explosion of recent technological advances in digital health including:
-
-* genetic sequencing
-* gut microbiome sequencing
-* [350,000](https://www2.deloitte.com/us/en/blog/health-care-blog/2021/how-digital-health-apps-are-empowering-patients.html) digital health apps
-* a [billion](https://www.statista.com/statistics/487291/global-connected-wearable-devices/) connected wearable devices
-
-These innovations have produced a [50-fold](https://www.weforum.org/agenda/2015/10/who-should-own-our-health-data/) growth in the amount of data on every disease and every factor that could improve, exacerbate, or prevent it. ![chart](../.gitbook/assets/growth-in-health-data-chart.png)
-
-This data exists in the form of:
-
-* Electronic Medical Records
-* Genetic Sequencing
-* Data from Fitness and Sleep trackers
-* Data from diet and treatment tracking apps
-* Health insurance claims
-* Grocery, pharmacy, and nutritional supplement receipts and purchases
-* Clinical trial results
-
-The digital health revolution started over a decade ago. It was promised to improve human health and reduce costs. Yet, all we've seen is increasing costs, increasing disease burden, and decreasing life expectancy.
-
-![cost and death](../.gitbook/assets/health-care-costs-and-life-expectancy.png)
-
-**Why haven't we seen a reduction in disease burden?**
-
-So, this explosion in technology, data, and spending has produced no measurable improvement in human health. The reason, in a single word, is **incentives**. The current economic system punishes every stakeholder in the ecosystem for doing the things that would lead to progress.
-
-### 1.2 Problems in Clinical Research
-
-#### 1.2.1 The Cost of Clinical Research
+#### &#x20;The Cost of Clinical Research
 
 * It costs [$2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasi-Grabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts).
 * The process takes over 10 years.
@@ -78,7 +30,7 @@ There are roughly [10,000](https://www.washingtonpost.com/news/fact-checker/wp/2
 
 Even if there is a financial incentive to research a new drug, there is no data on the long-term outcomes of the drug. The data collection period for participants can be as short as several months. Under the current system, it's not financially feasible to collect data on a participant for years or decades. So we have no idea if the long-term effects of a drug are worse than the initial benefits.
 
-For instance, even after controlling for co-morbidities, the Journal of American Medicine recently found that long-term use of Benadryl and other anticholinergic medications is associated with an [increased](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2091745) risk for dementia and Alzheimer disease.
+For instance, even after controlling for co-morbidities, the Journal of American Medicine recently found that long-term use of Benadryl and other anticholinergic medications is associated with an [increased](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2091745) risk for dementia and Alzheimer's disease.
 
 #### 1.2.2 Conflicts of Interest
 
@@ -100,7 +52,7 @@ Phase III clinical trials are designed to exclude a vast majority of the populat
 
 As a result, the results of these trials are not necessarily generalizable to patients matching any of these criteria:
 
-* Suffer from multiple mental health conditions (e.g. post-traumatic stress disorder, generalized anxiety disorder, bipolar disorder, etc.)
+* Suffer from multiple mental health conditions (e.g., post-traumatic stress disorder, generalized anxiety disorder, bipolar disorder, etc.)
 * Engage in drug or alcohol abuse
 * Suffer from mild depression (Hamilton Rating Scale for Depression (HAM-D) score below the specified minimum)
 * Use other psychotropic medications
@@ -116,18 +68,18 @@ Furthermore, patient sample sizes are very small. The number of subjects per tri
 
 ![wellbutrin small sample size](../.gitbook/assets/wellbutrin-effectiveness-small-sample-size.png)
 
-In the example in graphic above a drug is prescribed to millions of patients based on a study with only 36 subjects, where a representation of the general public is questionable.
+In the example in the graphic above, a drug is prescribed to millions of patients based on a study with only 36 subjects, where a representation of the general public is questionable.
 
 ### **Solution: Collect Data on Actual Patients**
 
 In the real world, no patient can be excluded. Even people with a history of drug or alcohol abuse, people on multiple medications, and people with multiple conditions must be treated. Only through the crowdsourcing of this research, would physicians have access to the true effectiveness rates and risks for their real-world patients.
 
-The results of crowd-sourced studies would exhibit complete and utter external validity since the test subjects are identical to the population of interest.
+The results of crowdsourced studies would exhibit complete and utter external validity, since the test subjects are identical to the population of interest.
 
-Furthermore, self-trackers represent a massive pool of potential subjects dwarfing any traditional trial cohort. Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, **MyFitnessPal,** has 30 million users.
+Furthermore, self-trackers represent a massive pool of potential subjects, dwarfing any traditional trial cohort. Diet tracking is the most arduous form of self-tracking. Yet, just one of the many available diet tracking apps, **MyFitnessPal,** has 30 million users.
 
 Tracking any variable in isolation is nearly useless in that it cannot provide the causal which can be derived from combining data streams. Hence, this 30 million user cohort is a small fraction of the total possible [stratifiable](https://en.wikipedia.org/wiki/Stratified\_sampling) base.
 
-#### [Next Solution](2-solution.md) 👉
+
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
