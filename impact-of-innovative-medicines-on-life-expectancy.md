@@ -4,7 +4,7 @@ description: >-
   would have been 2.16 times higher.
 ---
 
-# 💡 Impact of Innovative Medicines on Life Expectancy
+# 📈 Impact of Innovative Medicines on Life Expectancy
 
 ****
 

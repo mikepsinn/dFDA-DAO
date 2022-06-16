@@ -103,35 +103,11 @@ This means that it's only logical for regulators to reject drug applications by 
 [pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
-### What We Don't Know
+{% content-ref url="1-introduction-and-challenges/what-we-dont-know.md" %}
+[what-we-dont-know.md](1-introduction-and-challenges/what-we-dont-know.md)
+{% endcontent-ref %}
 
-We’re only 2 lifetimes from the use of the modern scientific method in medicine. Thus it's only been applied for 0.0001% of human history. The more clinical research studies we read, the more we realize we don’t know. Nearly every study ends with the phrase "more research is needed". We know basically nothing at this point compared to what will eventually be known about the human body.
-
-There are over [7,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans.
-
-![](<.gitbook/assets/rare-diseases (1).jpg>)
-
-There are as many untested compounds with drug-like properties as there are [atoms in the solar system](https://www.nature.com/articles/549445a) (166 billion).
-
-![](.gitbook/assets/number-of-molecules-with-drug-like-properties.png)
-
-If you multiply the number of molecules with drug-like properties by the number of diseases, that's 1,162,000,000, 000,000 combinations. So far we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent).
-
-That means we only know 0.000000002% of what is left to be known.
-
-The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
-
-We’re at the very beginning of thousands or millions of years of systematic discovery. So it’s unlikely that this decline in lifespan growth is the result of diminishing returns due to our running out of things to discover.
-
-However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of deFDA.
-
-**Cost Savings in Drug Development**
-
-Failed drug applications are expensive. A global database of treatments and outcomes could provide information that could avoid massive waste on failed trials.
-
-* A 10% improvement in predicting failure before clinical trials could save [$100 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals) in development costs.
-* Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
-* Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
+###
 
 {% content-ref url="cost-savings-from-decentralized-clinical-trials.md" %}
 [cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
