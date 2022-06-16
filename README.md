@@ -5,7 +5,7 @@ description: >-
   life-years (QALYs).
 ---
 
-# 💡 The Decentralized FDA DAO
+# 💊 The Decentralized FDA DAO
 
 ## The US FDA’s Mandate is Not to Maximize Lives Saved
 
@@ -36,7 +36,7 @@ If they do nothing, it will be assumed that they did not review the proposal.
 
 If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
-#### Problems that Could be Solved with a New Regulatory Framework
+### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -72,7 +72,7 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-#### How a DAO Regulatory Body Could Overcome Perverse Incentives
+### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
 **Overcoming Cognitive Bias Against Acts of Commission**
 
@@ -139,7 +139,7 @@ Failed drug applications are expensive. A global database of treatments and outc
 
 ****
 
-**Historical Evidence in Support of Our Hypotheses**
+### **Historical Evidence in Support of Our Hypotheses**
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
@@ -169,7 +169,7 @@ This consistent four-year/year increase in life expectancy remained unchanged be
 
 This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
 
-**1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
+#### **1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
 
 Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
 
@@ -177,7 +177,7 @@ Fortunately, the existing FDA safety regulations prevented any birth defects in 
 
 ![Thalidomide](.gitbook/assets/thalidomide.jpg)
 
-**1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
+#### **1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
 
 As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of $74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
 
@@ -209,49 +209,13 @@ Since the abandonment of the former efficacy trial model, costs have exploded. S
 [more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
 {% endcontent-ref %}
 
-**People With Rare Disease are Severely Punished**
+{% content-ref url="1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md" %}
+[people-with-rare-disease-are-severely-punished.md](1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md)
+{% endcontent-ref %}
 
-In the case of rare diseases, increasing the cost of treatment development to over a billion makes it impossible to recover your investment from a small number of patients. So rare disease patients suffer the most severe harm from the added regulatory burden on development.
-
-How high should the cost of drug development be on our list of human problems? Well, when something costs more, you get less of it. For people dying of cancer, the fact that we couldn't afford enough research to cure them is definitely at the top of their list of human problems.
-
-**Delayed Life-Saving Treatments**
-
-One unanticipated consequence of the amendments was that the new burden of proof made the process of drug development both more expensive and much longer, leading to increasing drug prices and a “drug lag”. After that point, whenever they released some new cancer or heart medication that would save 50 thousand lives a year, it meant that over the previous ten years of trials, 500 people died because they didn't have access to the drug earlier.
-
-**Deaths Due to US Regulatory "Drug Lag"**
-
-A comparative analysis between countries suggests that delays in new interventions cost anywhere from [21,000 to 120, 000](https://www.fdareview.org/features/references/#gieringer85) US lives per decade.
-
-Deaths owing to drug lag have been numbered in the [hundreds of thousands](https://www.fdareview.org/features/references/#wardell78a). It's estimated that practolol, a drug in the beta-blocking family, could save ten thousand lives a year, if allowed in the United States. Although the FDA allowed the first beta-blocker, propranolol, in 1968, three years after that drug had been available in Europe, it waited until 1978 to allow propranolol to treat hypertension and angina pectoris, its most essential indications. Despite clinical evidence as early as 1974, only in 1981 did the FDA allow a second beta-blocker, timolol, to prevent a second heart attack. The agency’s withholding of beta-blockers was alone responsible for probably [tens of thousands of deaths](https://www.fdareview.org/features/references/#gieringer85).
-
-[Data](http://csdd.tufts.edu/databases) from the Tufts Center for the Study of Drug Development suggests that thousands of patients have died because of US regulatory delays relative to other countries, for new drugs and devices, including:
-
-* interleukin-2
-* Taxotere
-* vasoseal
-* ancrod
-* Glucophage
-* navelbine
-* Lamictal
-* ethyol
-* photofrin
-* rilutek
-* citicoline
-* panorex
-* Femara
-* ProStar
-* omnicath
-
-Before US FDA approval, most of these drugs and devices had already been available in other countries for a year or longer.
-
-Following the 1962 increase in US regulations, one can see a divergence from Switzerland's growth in life expectancy, which did not introduce the same delays to availability.
-
-![US vs Swiss Life Expectancy](.gitbook/assets/us-swiss-life-expectancy-5.png)
-
-Perhaps it's a coincidence, but you can see an increase in drug approvals in the '80s. At the same time, the gap between Switzerland and the US gets smaller. Then US approvals go back down in the '90s, and the gap expands again.
-
-![US vs Swiss Life Expectancy](.gitbook/assets/us-swiss-life-expectancy-drug-approvals.png)
+{% content-ref url="1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md" %}
+[deaths-due-to-us-regulatory-drug-lag.md](1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md)
+{% endcontent-ref %}
 
 **Increase in Patent Monopoly**
 
