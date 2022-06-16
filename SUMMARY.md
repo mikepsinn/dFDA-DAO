@@ -2,6 +2,10 @@
 
 * [💊 The Decentralized FDA DAO](README.md)
 * [☠ Problems We Seek To Address](constitution/1-introduction-and-challenges.md)
+  * [🙈 Negative Results are Never Published](1-introduction-and-challenges/negative-results-are-never-published.md)
+  * [🎭 Conflicts of Interest](1-introduction-and-challenges/conflicts-of-interest.md)
+  * [🗓 No Long-Term Outcome Data](1-introduction-and-challenges/no-long-term-outcome-data.md)
+  * [📃 Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments](1-introduction-and-challenges/lack-of-incentive-to-discover-the-full-range-of-applications-for-off-patent-treatments.md)
   * [🥫 No Data on Unpatentable Molecules](1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
   * [🤒 People With Rare Disease are Severely Punished](1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md)
   * [🔮 Pre-Determining Clinical Endpoints Requires Psychic Powers](pre-determining-clinical-endpoints-requires-psychic-powers.md)

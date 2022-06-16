@@ -14,29 +14,21 @@ description: The current system of clinical research is too slow, expensive, and
 
 This high cost leads to the following problems:
 
-**No Data on Unpatentable Molecules**
+{% content-ref url="../1-introduction-and-challenges/no-data-on-unpatentable-molecules.md" %}
+[no-data-on-unpatentable-molecules.md](../1-introduction-and-challenges/no-data-on-unpatentable-molecules.md)
+{% endcontent-ref %}
 
-We still know next to nothing about the long-term effects of 99.9% of the 4 pounds of over [7,000](https://www.dailymail.co.uk/health/article-8757191/Are-additives-food-making-ill.html) different synthetic or natural chemicals you consume every day.
+{% content-ref url="../1-introduction-and-challenges/lack-of-incentive-to-discover-the-full-range-of-applications-for-off-patent-treatments.md" %}
+[lack-of-incentive-to-discover-the-full-range-of-applications-for-off-patent-treatments.md](../1-introduction-and-challenges/lack-of-incentive-to-discover-the-full-range-of-applications-for-off-patent-treatments.md)
+{% endcontent-ref %}
 
-Under the current system of research, it costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials. As a result, there is not a sufficient profit incentive for anyone to research the effects of any factor besides a molecule that can be patented.
+{% content-ref url="../1-introduction-and-challenges/no-long-term-outcome-data.md" %}
+[no-long-term-outcome-data.md](../1-introduction-and-challenges/no-long-term-outcome-data.md)
+{% endcontent-ref %}
 
-![how much we know](<../.gitbook/assets/how-much-we-know (1) (4).png>)
-
-**Lack of Incentive to Discover the Full Range of Applications for Off-Patent Treatments**
-
-There are roughly [10,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans, most of which (approximately 95%) are classified as “orphan” (rare) diseases. The current system requires that a pharmaceutical company predict a particular condition in advance of running clinical trials. If a drug is found to be effective for other diseases after the patent has expired, no one has the financial incentive to get it approved for another disease.
-
-**No Long-Term Outcome Data**
-
-Even if there is a financial incentive to research a new drug, there is no data on the long-term outcomes of the drug. The data collection period for participants can be as short as several months. Under the current system, it's not financially feasible to collect data on a participant for years or decades. So we have no idea if the long-term effects of a drug are worse than the initial benefits.
-
-For instance, even after controlling for co-morbidities, the Journal of American Medicine recently found that long-term use of Benadryl and other anticholinergic medications is associated with an [increased](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2091745) risk for dementia and Alzheimer's disease.
-
-#### Conflicts of Interest
-
-Long-term randomized trials are extremely expensive to set up and run. When billions of dollars in losses or gains are riding on the results of a study, this will almost inevitably influence the results. For example, an analysis of beverage studies, [published in the journal PLOS Medicine,](https://web.archive.org/web/20211207021133/https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001578#s3) found that those funded by Coca-Cola, PepsiCo, the American Beverage Association, and the sugar industry were **five times** more likely to find no link between sugary drinks and weight gain than studies whose authors reported no financial conflicts.
-
-The economic survival of the pharmaceutical company is dependent on the positive outcome of the trial. While there's not a lot of evidence to support that there's any illegal manipulation of results, it leads to two problems:
+{% content-ref url="../1-introduction-and-challenges/conflicts-of-interest.md" %}
+[conflicts-of-interest.md](../1-introduction-and-challenges/conflicts-of-interest.md)
+{% endcontent-ref %}
 
 **Negative Results are Never Published**
 

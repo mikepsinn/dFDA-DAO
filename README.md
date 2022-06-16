@@ -5,7 +5,7 @@ description: >-
   life-years (QALYs).
 ---
 
-# 💊 The Decentralized FDA DAO
+# 💡 The Decentralized FDA DAO
 
 ## The US FDA’s Mandate is Not to Maximize Lives Saved
 
@@ -36,7 +36,7 @@ If they do nothing, it will be assumed that they did not review the proposal.
 
 If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
-### Problems that Could be Solved with a New Regulatory Framework
+#### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -72,7 +72,7 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-### How a DAO Regulatory Body Could Overcome Perverse Incentives
+#### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
 **Overcoming Cognitive Bias Against Acts of Commission**
 
@@ -139,7 +139,7 @@ Failed drug applications are expensive. A global database of treatments and outc
 
 ****
 
-### **Historical Evidence in Support of Our Hypotheses**
+**Historical Evidence in Support of Our Hypotheses**
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
@@ -169,7 +169,7 @@ This consistent four-year/year increase in life expectancy remained unchanged be
 
 This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
 
-#### **1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
+**1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
 
 Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
 
@@ -177,7 +177,7 @@ Fortunately, the existing FDA safety regulations prevented any birth defects in 
 
 ![Thalidomide](.gitbook/assets/thalidomide.jpg)
 
-#### **1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
+**1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
 
 As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of $74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
 
