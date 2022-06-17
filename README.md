@@ -103,8 +103,8 @@ This means that it's only logical for regulators to reject drug applications by 
 [pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
-{% content-ref url="1-introduction-and-challenges/what-we-dont-know.md" %}
-[what-we-dont-know.md](1-introduction-and-challenges/what-we-dont-know.md)
+{% content-ref url="1-introduction-and-challenges/page-1.md" %}
+[page-1.md](1-introduction-and-challenges/page-1.md)
 {% endcontent-ref %}
 
 ###
