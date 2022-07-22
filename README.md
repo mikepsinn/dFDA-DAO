@@ -5,24 +5,11 @@ description: >-
   life-years (QALYs).
 ---
 
-# 💡 The Decentralized FDA DAO
+# 💊 The Decentralized FDA DAO
 
-## 💡The Problem
-
-#### :skull\_crossbones: You and Everyone You Love Will Suffer and Die
-
-Over [2 billion](https://www.george-health.com/global-health-challenge/) people are suffering and [150,000](https://www.weforum.org/agenda/2020/05/how-many-people-die-each-day-covid-19-coronavirus/) people die every single day from preventable diseases. For perspective, this is equivalent to:
-
-* [**FIFTY-ONE**](https://en.wikipedia.org/wiki/Casualties\_of\_the\_September\_11\_attacks) September 11th attacks every day
-* [**NINE**](https://www.haaretz.com/israel-news/6-million-where-is-the-figure-from-1.10570907) Holocausts every year
-
-Unfortunately, the congressional mandate of the US Food and Drug Administration makes it impossible to efficiently solve this problem.
-
-### The US FDA’s Mandate is Not to Maximize Lives Saved
+## The US FDA’s Mandate is Not to Maximize Lives Saved
 
 Reducing disease and increasing longevity is not the congressional mandate of the FDA. Its mandate is to ensure the “**safety and efficacy of drugs and medical devices**“. The only way to perfectly fulfill this mandate is to drive the regulatory financial barrier to develop new treatments to infinity. That would 100% guarantee that an unsafe or ineffective drug ever gets on the market again. The massive explosion in the cost of drug development is the logical consequence of this mandate.
-
-
 
 A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan**.
 
@@ -47,9 +34,9 @@ Medical experts can stake their token in one of three pools based on their belie
 
 If they do nothing, it will be assumed that they did not review the proposal.
 
-If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmacovigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
+If the "Helpful Pool" is the majority, the proposal will be approved and implemented. Post-marketing pharmaco-vigilence data will be collected from the participants and used to determine the relative change in healthspan between affected and unaffected populations.
 
-#### Problems that Could be Solved with a New Regulatory Framework
+### Problems that Could be Solved with a New Regulatory Framework
 
 It takes over [10 years and $2.6 billion](https://www.semanticscholar.org/paper/Innovation-in-the-pharmaceutical-industry%3A-New-of-DiMasiGrabowski/3275f31c072ac11c6ca7a5260bd535720f07df41) to bring a drug to market (including failed attempts). It costs [$41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in Phase III clinical trials.
 
@@ -85,7 +72,7 @@ If you multiply the [166 billion](https://www.nature.com/articles/549445a) molec
 
 ![](.gitbook/assets/studied-molecules-chart-no-background.png)
 
-#### How a DAO Regulatory Body Could Overcome Perverse Incentives
+### How a DAO Regulatory Body Could Overcome Perverse Incentives
 
 **Overcoming Cognitive Bias Against Acts of Commission**
 
@@ -116,37 +103,11 @@ This means that it's only logical for regulators to reject drug applications by 
 [pre-determining-clinical-endpoints-requires-psychic-powers.md](pre-determining-clinical-endpoints-requires-psychic-powers.md)
 {% endcontent-ref %}
 
-### What We Don't Know
+{% content-ref url="1-introduction-and-challenges/page-1.md" %}
+[page-1.md](1-introduction-and-challenges/page-1.md)
+{% endcontent-ref %}
 
-We’re only 2 lifetimes from the use of the modern scientific method in medicine. Thus it's only been applied for 0.0001% of human history. The more clinical research studies we read, the more we realize we don’t know. Nearly every study ends with the phrase "more research is needed". We know basically nothing at this point compared to what will eventually be known about the human body.
-
-There are over [7,000](https://www.washingtonpost.com/news/fact-checker/wp/2016/11/17/are-there-really-10000-diseases-and-500-cures/) known diseases afflicting humans.
-
-![](.gitbook/assets/rare-diseases.jpg)
-
-There are as many untested compounds with drug-like properties as there are [atoms in the solar system](https://www.nature.com/articles/549445a) (166 billion).
-
-![](<.gitbook/assets/number-of-molecules-with-drug-like-properties (1).png>)
-
-If you multiply the number of molecules with drug-like properties by the number of diseases, that's 1,162,000,000, 000,000 combinations. So far we've studied [21,000 compounds](https://www.centerwatch.com/articles/12702-new-mit-study-puts-clinical-research-success-rate-at-14-percent).
-
-That means we only know 0.000000002% of what is left to be known.
-
-![](<.gitbook/assets/how-much-we-know-numbers (2) (5).png>)
-
-The currently highly restrictive overly cautious method of clinical research prevents us from knowing more faster.
-
-We’re at the very beginning of thousands or millions of years of systematic discovery. So it’s unlikely that this decline in lifespan growth is the result of diminishing returns due to our running out of things to discover.
-
-However, to validate the theory that large-scale real-world evidence can produce better health outcomes requires further validation of this method of experimentation. That's the purpose of deFDA.
-
-**Cost Savings in Drug Development**
-
-Failed drug applications are expensive. A global database of treatments and outcomes could provide information that could avoid massive waste on failed trials.
-
-* A 10% improvement in predicting failure before clinical trials could save [$100 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals) in development costs.
-* Shifting 5% of clinical failures from Phase III to Phase I reduces out-of-pocket costs by [$15 to $20 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
-* Shifting failures from Phase II to Phase I would reduce out-of-pocket costs by [$12 to $21 million](https://drugwonks.com/blog/the-dog-days-of-drug-approvals).
+###
 
 {% content-ref url="cost-savings-from-decentralized-clinical-trials.md" %}
 [cost-savings-from-decentralized-clinical-trials.md](cost-savings-from-decentralized-clinical-trials.md)
@@ -154,7 +115,7 @@ Failed drug applications are expensive. A global database of treatments and outc
 
 ****
 
-**Historical Evidence in Support of Our Hypotheses**
+### **Historical Evidence in Support of Our Hypotheses**
 
 There is compelling historical evidence suggesting that large scale efficacy-trials based on real-world evidence have ultimately led to better health outcomes than current pharmaceutical industry-driven randomized controlled trials.
 
@@ -184,7 +145,7 @@ This consistent four-year/year increase in life expectancy remained unchanged be
 
 This suggests that the regulations did not have a large-scale positive or negative impact on the development of life-saving interventions.
 
-**1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
+#### **1950's - Thalidomide Causes Thousands of Birth Defects Outside US**
 
 Thalidomide was first marketed in Europe in [1957](https://en.wikipedia.org/wiki/Thalidomide) for morning sickness. While it was initially thought to be safe in pregnancy, it resulted in thousands of horrific congenital disabilities.
 
@@ -192,7 +153,7 @@ Fortunately, the existing FDA safety regulations prevented any birth defects in 
 
 ![Thalidomide](.gitbook/assets/thalidomide.jpg)
 
-**1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
+#### **1962 - New Efficacy Regulations Reduce the Amount and Quality of Efficacy Data Collected**
 
 As effective **safety** regulations were already in place, the government instead responded to the Thalidomide disaster by regulating **efficacy** testing via the 1962 Kefauver Harris Amendment. Before the 1962 regulations, it cost a drug manufacturer an average of $74 million (2020 inflation-adjusted) to develop and test a new drug for safety before bringing it to market. Once the FDA had approved it as safe, efficacy testing was performed by the third-party American Medical Association. Following the regulation, trials were instead to be conducted in small, highly-controlled trials by the pharmaceutical industry.
 
@@ -224,49 +185,13 @@ Since the abandonment of the former efficacy trial model, costs have exploded. S
 [more-cures-and-less-lifelong-attempts-at-masking-symptoms.md](more-cures-and-less-lifelong-attempts-at-masking-symptoms.md)
 {% endcontent-ref %}
 
-**People With Rare Disease are Severely Punished**
+{% content-ref url="1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md" %}
+[people-with-rare-disease-are-severely-punished.md](1-introduction-and-challenges/people-with-rare-disease-are-severely-punished.md)
+{% endcontent-ref %}
 
-In the case of rare diseases, increasing the cost of treatment development to over a billion makes it impossible to recover your investment from a small number of patients. So rare disease patients suffer the most severe harm from the added regulatory burden on development.
-
-How high should the cost of drug development be on our list of human problems? Well, when something costs more, you get less of it. For people dying of cancer, the fact that we couldn't afford enough research to cure them is definitely at the top of their list of human problems.
-
-**Delayed Life-Saving Treatments**
-
-One unanticipated consequence of the amendments was that the new burden of proof made the process of drug development both more expensive and much longer, leading to increasing drug prices and a “drug lag”. After that point, whenever they released some new cancer or heart medication that would save 50 thousand lives a year, it meant that over the previous ten years of trials, 500 people died because they didn't have access to the drug earlier.
-
-**Deaths Due to US Regulatory "Drug Lag"**
-
-A comparative analysis between countries suggests that delays in new interventions cost anywhere from [21,000 to 120, 000](https://www.fdareview.org/features/references/#gieringer85) US lives per decade.
-
-Deaths owing to drug lag have been numbered in the [hundreds of thousands](https://www.fdareview.org/features/references/#wardell78a). It's estimated that practolol, a drug in the beta-blocking family, could save ten thousand lives a year if allowed in the United States. Although the FDA allowed a first beta-blocker, propranolol, in 1968, three years after that drug had been available in Europe, it waited until 1978 to allow propranolol to treat hypertension and angina pectoris, its most essential indications. Despite clinical evidence as early as 1974, only in 1981 did the FDA allow a second beta-blocker, timolol, to prevent a second heart attack. The agency’s withholding of beta-blockers was alone responsible for probably [tens of thousands of deaths](https://www.fdareview.org/features/references/#gieringer85).
-
-[Data](http://csdd.tufts.edu/databases) from the Tufts Center for the Study of Drug Development suggests that thousands of patients have died because of US regulatory delays relative to other countries, for new drugs and devices, including:
-
-* interleukin-2
-* Taxotere
-* vasoseal
-* ancrod
-* Glucophage
-* navelbine
-* Lamictal
-* ethyol
-* photofrin
-* rilutek
-* citicoline
-* panorex
-* Femara
-* ProStar
-* omnicath
-
-Before US FDA approval, most of these drugs and devices had already been available in other countries for a year or longer.
-
-Following the 1962 increase in US regulations, one can see a divergence from Switzerland's growth in life expectancy, which did not introduce the same delays to availability.
-
-![swiss life expectancy](.gitbook/assets/us-swiss-life-expectancy-5.png)
-
-Perhaps it's a coincidence, but you can see an increase in drug approvals in the '80s. At the same time, the gap between Switzerland and the US gets smaller. Then US approvals go back down in the '90s, and the gap expands again.
-
-![swiss life expectancy](.gitbook/assets/us-swiss-life-expectancy-drug-approvals.png)
+{% content-ref url="1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md" %}
+[deaths-due-to-us-regulatory-drug-lag.md](1-introduction-and-challenges/deaths-due-to-us-regulatory-drug-lag.md)
+{% endcontent-ref %}
 
 **Increase in Patent Monopoly**
 
@@ -280,13 +205,13 @@ The placebo-controlled, randomized controlled trial helped researchers gauge the
 
 From 1890 to 1960, there was a linear 4-year increase in human lifespan every year. This amazingly linear growth rate had followed millennia with a flat human lifespan of around 28 years. Following this new 70% reduction in the pace of medical progress, the growth in human lifespan was immediately cut in half to an increase of 2 years per year.
 
-![](.gitbook/assets/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png)
+![Average Life Expectancy Over Time](.gitbook/assets/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png)
 
 **Diminishing Returns?**
 
 One might say “It seems more likely — or as likely — to me that drug development provides diminishing returns to life expectancy.” However, diminishing returns produce a slope of exponential decay. It may be partially responsible, but it’s not going to produce a sudden change in the linear slope of a curve a linear as life expectancy was before and after the 1962 regulations.
 
-![diminishing returns](.gitbook/assets/diminishing-returns.png)
+![What diminishing returns would look like](.gitbook/assets/diminishing-returns.png)
 
 **Correlation is Not Causation**
 
