@@ -1,0 +1,29 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "PublicReadGetObject",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "s3:GetObject",
+      "Resource": [
+        "arn:aws:s3:::static.dfda.earth/*.bmp",
+        "arn:aws:s3:::static.dfda.earth/*.css",
+        "arn:aws:s3:::static.dfda.earth/*.gif",
+        "arn:aws:s3:::static.dfda.earth/*.html",
+        "arn:aws:s3:::static.dfda.earth/*.jpg",
+        "arn:aws:s3:::static.dfda.earth/*.jpeg",
+        "arn:aws:s3:::static.dfda.earth/*.ico",
+        "arn:aws:s3:::static.dfda.earth/*.js",
+        "arn:aws:s3:::static.dfda.earth/*.json",
+        "arn:aws:s3:::static.dfda.earth/*.map",
+        "arn:aws:s3:::static.dfda.earth/*.pdf",
+        "arn:aws:s3:::static.dfda.earth/*.png",
+        "arn:aws:s3:::static.dfda.earth/*.svg",
+        "arn:aws:s3:::static.dfda.earth/*.zip",
+        "arn:aws:s3:::static.dfda.earth/*.woff",
+        "arn:aws:s3:::static.dfda.earth/*.ttf"
+      ]
+    }
+  ]
+}
